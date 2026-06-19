@@ -1,0 +1,9 @@
+pdfplumber
+camelot
+scipy
+matplotlib
+numpy
+pandas
+seaborn
+plotly
+plotnine
