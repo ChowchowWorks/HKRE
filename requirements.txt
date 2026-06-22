@@ -1,5 +1,6 @@
 pdfplumber
-camelot
+camelot-py
+tabula
 scipy
 matplotlib
 numpy
