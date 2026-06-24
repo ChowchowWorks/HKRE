@@ -48,3 +48,8 @@ roject starts construction
 Occupation Permit issued post 2019 (old format)
         ↓
 GFA Summary published post 2019 (old format)
+
+Current Mess:
+1. Difficult to read the GFA summary PDF 
+2. Even if we know which documents follow the newest version of ADM002, we do not know when the planning stage of the building occured and whether it was affected by MiC Concessions
+3. Of all the documents that I have opened, none showed any concessions given to item 38
