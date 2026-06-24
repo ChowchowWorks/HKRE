@@ -9,6 +9,7 @@ Found the obsolete version of ADM-2 Rev 1./2011
 Noticed that (35) Bonus GFA has been in ADM-2 versions that pre-dates Rev 1./ 2011 (first introduced in 5/2010)
 -
 Possible Lead 1: Could MiC Concessions be grouped under Bonus GFA? Need to find the supporting document that notes down elements of (35) Bonus GFA
+--> Allows developers to build additional floor space—beyond standard plot ratio limits—in exchange for providing public amenities like street widening or dedicated public access
 -
 Possible Lead 2: Find APP-161 submissions --> Directly correspond to applicants seeking MiC concessions
 However, APP-161 was fully incorporated into APP-151 on 1 August 2022. Could this be a reason why GFA summaries have mixed item numbering? 
