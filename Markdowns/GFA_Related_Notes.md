@@ -133,9 +133,66 @@ Purpose of BEAM Plus is to set out a series of best practices (above statutory r
 
 ### Things to contemplate: 
 1. Why was BEAM Plus chosen over any other certification system?
+- Other Certifications: LEED (US-based)/ BREEAM (UK-based) --> Can take a look at literature surrounding these 
+- BEAM Plus aims at increasing building sustainability, reduce operating costs for businesses. It is crafted along SDG and ESG Goals, and incorporates elements from health considerations.
 2. Exactly which GFA concession items require BEAM Plus?
+- Green and Amenity Features
+- Balconies and utility platforms
+- Communal sky gardens and communal podium gardens
+- Covered landscaped areas and covered play areas
+- Wider common corridors and lift lobbies
+- Mail delivery rooms with mailboxes
+- Acoustic wing walls and prefabricated external walls
+- Non-Mandatory / Non-Essential Plant Rooms
+- Air-conditioning plant rooms and A/C platforms
+- Plant rooms for green facilities (e.g., rainwater harvesting systems, solar panel switch rooms)
+- Telecommunications and broadcasting (TBE) equipment rooms.
 3. What level of BEAM Plus certification is required (if any)?
 4. How did those requirements change in 2011 and after?
+
+### The Effect of BEAM Plus Certification on Property Price  in Hong Kong
+#### International Jounral of Strategic Property Management
+#### Eddie Hui, Cheuk-kin Tse, Ka-hung YU. HK Polytechnic University
+
+1. Basis: There is a greater willingness to pay for green buildings with more sustainable designs
+2. Aim: evaluate the relationship between BEAM Plus certification and price of flats. 
+##### Hypothesis: 
+1. BEAM Plus certification generates additional price premium for properties
+2. Housing unit located in a building with a lower rating would be transacted at a discount
+##### Lit Revoew:
+* All reviewed studies showed that the space in a certified building carry a price/rental premium over non-certified buildings. 
++ Buildings with a higher rating under a particular green building certification is more expensive than one with a lower rating. 
+* The above refers to office buildings
+* Depreciation Rates of Green Certified buildings are lower
+##### Data and Methodology
+* Residential units from Sham Shui Po - Cheung Sha Wan District
+* 646 transactions of housing units in 16 private residential developments located in the district
+* February 2012 = December 2014
+* 5 developments have been registered to BEAM Plus and 4 assessed.
+* 53.3% are located in buildings registered under BEAM Plus. 42.2% in already assessed buildings.
+* 54.3% are pre-sale and 45.7 are occupied flats. 
+Sources: 
+1. EPRC --> Transaction Price and Structural Attributes
+2. Rating & Valuation Department (RVD) --> Property Price trend over time
+3. BEAM Society and HKGBC --> BEAM Plus certification
+Model: 
+* Hedonic Price Model 
+* Dependent Variable: per square meter transaction price
+* Model 1: Homebuyers are informed of the actual BEAM Plus certification
+* Model 2: Homebuyers are not as informd, "unclassified" ratings are not disclosed by property developers. 
+Findings: 
+Model 1
+- An Unclassified rating under BEAM Plus sells at a discount of 5.8%
+- A classified building sells at a premium of 4.4%
+Model 2 (imperfect information)
+- Premium of a classified building becomes noticeably higher at 6.2%
+
+Misc: 
++ Green buildings require higher construction costs (2%)
++ April 2011. BD introduced APP-151 that requires BEAM Plus registration
++ Before 2011: 30 registered for BEAM; After 2011: 340 Registered for BEAM 
++ *Current* APP-151 mandates that a developer must state the target certification and meet the target certification 
++ To what extent is the price premium a result of higher construction costs?
 
 ## 10% Cap on Discretionary GFA Concessions (2011)
 
