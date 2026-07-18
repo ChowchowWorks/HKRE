@@ -10,3 +10,5 @@ plotly
 plotnine
 jupyter
 ipykernel
+pyreadr
+rdata

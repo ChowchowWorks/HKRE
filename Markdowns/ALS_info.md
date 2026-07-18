@@ -1,24 +1,15 @@
-# Application List System (ALS) – Hong Kong
+# Clarence's Notes
 
-- The *Application List System* (ALS) is a **market-driven land-sale mechanism** 
-- 1999 to 2013.  
+## Major Policy Milestones 
 
-# Mechanism 
-- The government publishes a list of reserve sites 
-- Developers **apply** to buy by offering a *minimum price* and trigger an auction/tender 
-  - Only if the offer met the government’s minimum valuation.
-  
-- 2013, the government (led by CY Leung and Sec‑Dev Paul Chan) scrapped ALS, shifting back to a **government-led Land Sale Programme**. 
+| Date | Policy Change | 
+| :--- | :--- |
+| April 1999 | Implementation of ALS | 
+| November 2002 | Suspension of ALS<br>Suspension of Land Sales | 
+| January 2004 | Resumption of ALS |
+| April 2011 | Introduction of Land Sales | 
+| Febraury 2013 | Abolishment of ALS | 
 
-# Timeline
-    1999 : ALS introduced (April 1999 start)
-    2002 : ALS *suspended* (Nov 2002 announcement; all sales deferred through 2003)
-    2004 : ALS *resumes* (Jan 2004; new list of sites)
-    2005 : Process reforms (March 2005: deposit =10% (≤HK$50M), faster notices, publishing application stats); (June 2005: offers ≥80% of open-market value (OMV) trigger sale).
-    2007 : Deposit cut (March 2007: 10→5% (≤HK$25M), bank guarantees allowed).
-    **2013 : ALS *abolished* (from FY2013–14; government-timed land sales only).**
-
-**Construction within 48 months, thus all land sold from the ALS should have completed construction by 2017.** 
 
 
 ## Detailed Policy Timeline
@@ -75,3 +66,64 @@
 5. Railway property development;
 6. Urban renewal projects;
 7. Former quarry developments.
+
+# Nico's Notes
+
+## Application List System (ALS) – Hong Kong
+
+- The *Application List System* (ALS) is a **market-driven land-sale mechanism** 
+- 1999 to 2013.  
+
+## Mechanism 
+- The government publishes a list of reserve sites 
+- Developers **apply** to buy by offering a *minimum price* and trigger an auction/tender 
+  - Only if the offer met the government’s minimum valuation.
+  
+- 2013, the government (led by CY Leung and Sec‑Dev Paul Chan) scrapped ALS, shifting back to a **government-led Land Sale Programme**. 
+
+## Timeline
+    1999 : ALS introduced (April 1999 start)
+    2002 : ALS *suspended* (Nov 2002 announcement; all sales deferred through 2003)
+    2004 : ALS *resumes* (Jan 2004; new list of sites)
+    2005 : Process reforms (March 2005: deposit =10% (≤HK$50M), faster notices, publishing application stats); (June 2005: offers ≥80% of open-market value (OMV) trigger sale).
+    2007 : Deposit cut (March 2007: 10→5% (≤HK$25M), bank guarantees allowed).
+    **2013 : ALS *abolished* (from FY2013–14; government-timed land sales only).**
+
+**Construction within 48 months, thus all land sold from the ALS should have completed construction by 2017.** 
+
+
+# Progress
+
+## Prof
+
+1. ALS Suspension was hitting large apartments hard, almost all ALS triggered apartments were large and extra large during the last period of ALS
+2. Price per square foot is lower after ALS 
+  - Caveats:
+    + Luxury apartments post FY13/14 are yet to be launched given that core.RData goes to 2019 April only. 
+    + Government apparently would take some land from ALS for their initiated sales (Ultima Phase 1, KIL 11175) --> need to look at these behaviors in analysis 
+3. Document of Invitation
+
+## Nico 
+1. Second hand price 
+
+## Clarence
+1. Average Site Area Exploration
+
+Potential Areas: 
+1. Land becomes available to a broader range of developers 
+  + Number of Unique Developers winning tenders
+  + CR4 or HHI of land acquisition 
+  + Small vs Major Developers's Market Share
+  + Joint ventures before and After ALS
+
+2. Site Characteristics: 
+  + Average GFA across areas
+  + Plot Ratios across areas
+  + Number of Units on Sale
+  + Government-estimated flat yield 
+
+3. Land Price Behavior
+ + Premium over reserve
+ + Land price volatility
+ + Number of bidders
+ + Successful tender rate
