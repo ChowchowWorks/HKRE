@@ -1,0 +1,56 @@
+﻿year,month,ALS,stamp_duty,HKMA_action,interest_rate,mainland_influence,govt_proposal,society_event
+1999,4,Implementation of ALS,,,,,,
+2002,11,"Suspension of ALS
+Suspension of Land Sales",,,,,,
+2004,1,Resumption of ALS,,,,,,
+2009,10,,,HKMA R1: LTV cap 60% for props >=HK$20m (23 Oct),,,,
+2010,8,,,HKMA R2: 60% LTV extended to >=$12m; DSR 50% + stressed-rate test (13 Aug),,,,
+2010,11,,SSD effective 5-15% on resale within 24 months (20 Nov),"HKMA R3: LTV 50% >=$12m, 60% $8-12m (19 Nov, with SSD)",,,,
+2011,4,Resumption of Land Sales,,,,,,
+2011,6,,,HKMA R4: LTV 50% >=$10m / 60% $7-10m / 70% <$7m; -10pp offshore income; net-worth lending 40% (10 Jun),,,,
+2012,7,,,,,,Residential Properties (First-hand Sales) Ordinance enacted (Jul),
+2012,9,,,HKMA R5: max tenor 30 yrs; DSR 40% for second mortgages (14 Sep),,,,
+2012,10,,SSD extended 10-20% / 36 months; BSD 15% on non-PR and companies (27 Oct),,,,,
+2013,2,Abolishment of ALS,"DSD: ad valorem rates doubled, PR first-home buyers exempt (23 Feb)",HKMA R6: stress test +3pp; 15% risk-weight floor on new mortgages (22 Feb),,,,
+2013,4,,,,,,"First-hand Sales Ordinance effective: saleable-area-only pricing, price lists >=3 days ahead, 24h register (29 Apr)",
+2014,9,,,,,,,Occupy movement begins 28 Sep (to 15 Dec); negligible lasting market effect
+2014,12,,,,,,"Long Term Housing Strategy: 480,000-unit 10-yr target, 60:40 public:private (16 Dec)",
+2015,2,,,HKMA R7: LTV cut to 60% for self-use flats <$7m (27 Feb),,,,
+2015,8,,,,,RMB devaluation (11 Aug); capital-outflow wave into HK property 2015-16,,
+2015,12,,,,"Fed +25bp to 0.25-0.50% (16 Dec), first hike since 2006; end of ZIRP",,,
+2016,11,,"NRSD: flat 15% AVD on all residential, PR first-home buyers stay on Scale 2 (5 Nov)",,,"HNA wins first Kai Tak govt tender at record ~HK$13,500/ft2 GFA (Nov); mainland bidding wave begins",,
+2016,12,,,,Fed +25bp to 0.50-0.75% (14 Dec),SAFE/PBoC tighten outbound capital controls (Dec 2016 - Jan 2017),,
+2017,2,,,,,"Logan/KWG win Ap Lei Chau site at record HK$16.86bn, ~50% above valuation (24 Feb)",,
+2017,3,,,,Fed +25bp to 0.75-1.00% (15 Mar),HNA completes 4th Kai Tak site (Mar); mainland share of residential land by value ~40% in 2016-17,,
+2017,4,,Multiple-units-on-one-instrument loophole closed: >1 unit per instrument taxed at 15% (12 Apr),,,,,
+2017,5,,,HKMA R8: risk-weight floor 25%; LTV -10pp with existing mortgage; DSR -10pp offshore income (19 May),,,,
+2017,6,,,,Fed +25bp to 1.00-1.25% (14 Jun),,,
+2017,8,,,,,,,Typhoon Hato (23 Aug); no detectable housing-market effect
+2017,10,,,,,,"Starter Homes pilot announced, Policy Address (11 Oct)",
+2017,12,,,,Fed +25bp to 1.25-1.50% (13 Dec),,,
+2018,2,,,,,"HNA retreat begins: Kai Tak plots resold to Henderson (Feb), later Wheelock",,
+2018,3,,,,Fed +25bp to 1.50-1.75% (21 Mar),,,
+2018,6,,,,Fed +25bp to 1.75-2.00% (13 Jun),,Vacancy tax announced: Special Rates 200% of rateable value on new flats unsold/unlet >6 months (29 Jun),
+2018,9,,,,"Fed +25bp to 2.00-2.25% (26 Sep); HK prime +12.5bp, first rise since 2006",,,Typhoon Mangkhut (16 Sep); no detectable housing-market effect
+2018,10,,,,,,"Lantau Tomorrow Vision: 1,700-ha reclamation, Policy Address (10 Oct)",
+2018,12,,,,Fed +25bp to 2.25-2.50% (19 Dec),,,
+2019,2,,,,,Greater Bay Area Outline Development Plan published (18 Feb),,
+2019,6,,,,,,,"Anti-ELAB protests begin (9 Jun); prices ~-5% H2 2019, launches postponed"
+2019,7,,,,Fed -25bp to 2.00-2.25% (31 Jul),,,
+2019,9,,,,Fed -25bp to 1.75-2.00% (18 Sep),,Vacancy tax bill introduced to LegCo (Sep),
+2019,10,,,"MIP relaxation: 90% LTV up to $8m (was $4m), 80% up to $10m (16 Oct, Policy Address)",Fed -25bp to 1.50-1.75% (30 Oct),,,
+2020,2,,,,,,,"COVID-19: border with mainland closed (4 Feb, to early 2023); mainland buyers absent"
+2020,3,,,,"Fed -150bp to 0-0.25% (3 & 15 Mar, emergency cuts)",,,
+2020,7,,,,,,,BN(O) visa route announced (Jul); emigration wave from mid-2020
+2020,8,,,,,Three red lines: mainland developer leverage caps (Aug),,
+2020,11,,,,,,Vacancy tax bill shelved/withdrawn; lapses without enactment,
+2021,1,,,,,,,BN(O) visa route opens (31 Jan); emigration accelerates
+2021,12,,,,,Evergrande default (Dec); mainland bidders exit HK land market 2021-22,,
+2022,3,,,,Fed +25bp to 0.25-0.50% (16 Mar); 2022 tightening cycle begins,,,
+2022,5,,,,Fed +50bp to 0.75-1.00% (4 May),,,
+2022,6,,,,Fed +75bp to 1.50-1.75% (15 Jun),,,
+2022,7,,,,Fed +75bp to 2.25-2.50% (27 Jul),,,
+2022,8,,,,,,,C&SD: net population outflow ~113k in year to mid-2022 (Aug release)
+2022,9,,,,"Fed +75bp to 3.00-3.25% (21 Sep); HK prime +12.5bp, first rise since 2018",,,
+2022,11,,,,Fed +75bp to 3.75-4.00% (2 Nov),,,
+2022,12,,,,"Fed +50bp to 4.25-4.50% (14 Dec); HK prices ~-15% in 2022, land tenders failing",,,

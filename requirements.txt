@@ -12,3 +12,5 @@ jupyter
 ipykernel
 pyreadr
 rdata
+nbconvert
+geopandas

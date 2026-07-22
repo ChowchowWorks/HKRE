@@ -1,4 +1,4 @@
-,Lot Number,Location,User,Site Area,Plot Ratio,Deposit (HK$ M),Estimated Earliest Site Available Date,Period,Rolled over
+Unnamed: 0,Lot Number,Location,User,Site Area,Plot Ratio,Deposit (HK$ M),Estimated Earliest Site Available Date,Period,Rolled over
 0,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Commercial / Residential,0.8895 ha,5/9.5,50.0,April 1999,1999/2000,0
 1,RBL 1143,Adjacent to 16 & 18 South Bay Road,Residential R3,0.1925 ha,0.9,10.0,October 1999,1999/2000,0
 2,Lot 673 in DD Peng Chau,"Site No 2, Tung Wan, Peng Chau",Residential R3,0.1050 ha,0.6,0.5,April 1999,1999/2000,0
@@ -65,461 +65,478 @@
 63,TYTL 169,"Tam Kon Shan Road, Tsing Yi",Shipyard,0.1685 ha,,0.5,April 2001,2001/2002,0
 64,TYTL 161,"Tsing Keung Street, Tsing Yi",Concrete and/or Asphalt Production,0.4229 ha,2.5,2.0,August 2001,2001/2002,0
 65,TYTL 162,"Tsing Keung Street, Tsing Yi",Concrete and/or Asphalt Production,0.4647 ha,2.5,2.0,August 2001,2001/2002,0
-66,KIL 11158,"Site E/A3, West Kowloon Reclamation (Site B2)",Residential R1,1.0450 ha,6.5/1,50.0,April 2002,2002/2005,1
-67,KIL 11146,"Site E/A3, West Kowloon Reclamation (Site B1)",Residential R1,1.1353 ha,6.5/1,50.0,April 2002,2002/2005,1
-68,NKIL 6308,"Junction of King Fuk Street, King Tai Street and Prince Edward Road East, San Po Kong",Residential R1,1.2701 ha,9,50.0,April 2002,2002/2005,1
-69,STTL 487,"Site 15, Area 77, Ma On Shan",Residential R2,1.4338 ha,5,50.0,April 2002,2002/2005,1
-70,NKIL 6196,"Junction of Cornwall Street and Tat Chee Avenue, Kowloon Tong",Residential R3,1.4700 ha,1.903,50.0,April 2002,2002/2005,1
-71,STTL 449,"Sites 21 and 22, Area 86B, Ma On Shan",Residential R2,2.1100 ha,5,50.0,April 2002,2002/2005,1
-72,KIL 11140,"Site F/A14, West Kowloon Reclamation",Residential R1,1.3576 ha,6.5/1,50.0,April 2002,2002/2005,1
-73,Lot 734 D.D. 4,"Sites 3 and 4, Mui Wo, Lantau",Residential R3,0.2419 ha,0.6,1.0,April 2002,2002/2005,0
-74,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,8,50.0,August 2002,2002/2005,0
-75,STTL 510,"Tung Lo Wan Hill Road, Sha Tin",Residential R2,1.2200 ha,2.3,30.0,September 2002,2002/2005,0
-76,KIL 11124,"Ex-Tin Kwong Road Police Married Quarters, Ho Man Tin",Residential R1,1.6730 ha,9,50.0,September 2002,2002/2005,0
-77,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,8,20.0,October 2002,2002/2005,0
-78,TKOTL 77,"Area 73B, Tseung Kwan O",Residential R1,1.2500 ha,6.5/0.16,50.0,December 2002,2002/2005,1
-79,STTL 536,"Area 11, Shek Mun, Sha Tin",Residential R1,1.7500 ha,5,50.0,December 2002,2002/2005,0
-80,TKOTL 87,"Area 74 South, Tseung Kwan O",Residential R1,1.7500 ha,7.15/1,50.0,December 2002,2002/2005,0
-81,TKOTL 86,"Area 74 South, Tseung Kwan O",Residential R1,2.4940 ha,7.15/1,50.0,December 2002,2002/2005,0
-82,NKIL 6330,"Sa Po Road, Kowloon City",Residential R1,0.3510 ha,9,40.0,January 2003,2002/2005,0
-83,YLTL 518,"Ex-Yuen Long Estate, Yuen Long",Residential R1,1.2400 ha,5,40.0,March 2003,2002/2005,1
-84,FSSTL 177,"Sha Tau Kok Road, Fanling",Residential / Commercial,0.8900 ha,5/9.5,30.0,April 2002,2002/2005,0
-85,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,Portion A: 10.55; Portion B: see Note 2,50.0,April 2002,2002/2005,1
-86,TWTL 393,"Yeung Uk Road, Tsuen Wan",Residential / Commercial,1.4200 ha,5/9.5,50.0,March 2003,2002/2005,0
-87,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,4,10.0,April 2002,2002/2005,0
-88,TCTL 11,"Area 3A, Tung Chung",Commercial and Public Transport Terminus,1.0212 ha,3,2.0,April 2002,2002/2005,0
-89,KIL 11111,Hung Hom Bay Reclamation,Commercial and Public Transport Terminus,2.9356 ha,6.855,50.0,October 2002,2002/2005,0
-90,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business and Multi-storey Carpark,0.7166 ha,12,30.0,January 2003,2002/2005,0
-91,KCTL 487,"Wang Kei Road, Kwai Chung",Industrial / Industrial - Office,0.1482 ha,9.5,2.0,September 2002,2002/2005,1
-92,CWIL 165,Chai Wan Reclamation,Industrial / Industrial - Office,0.5247 ha,15,10.0,December 2002,2002/2005,0
-93,KCTL 478,"Wing Kin Road, Kwai Chung",Industrial / Industrial-Office/Godown and Multi-storey Carpark and LPG Vehicle Repair Workshop,0.3707 ha,9.5,0.5,September 2002,2002/2005,1
-94,TYTL 164,"Tsing Keung Street, Tsing Yi",LPG Vehicle Repair Workshop,0.5810 ha,2.5,2.0,April 2002,2002/2005,1
-95,RBL 1159,"Peak Pavilions, 12 Mt. Kellett Road, the Peak",Residential R3,0.7353 ha,,,April 2005,2005/2006,1
-96,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,,,April 2005,2005/2006,1
-97,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,April 2005,2005/2006,1
-98,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3528 ha,,,April 2005,2005/2006,1
-99,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,,,April 2005,2005/2006,1
-100,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,April 2005,2005/2006,1
-101,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4250 ha,,,April 2005,2005/2006,1
-102,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,,,April 2005,2005/2006,1
-103,RBL 1168,Near 35 South Bay Road,Residential R3,0.1460 ha,,,April 2005,2005/2006,1
-104,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,April 2005,2005/2006,1
-105,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4160 ha,,,April 2005,2005/2006,1
-106,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R3,0.3173 ha,,,April 2005,2005/2006,0
-107,KIL 11168,"Hoi Ting Road, West Kowloon Reclamation Area",Residential R1,0.7397 ha,,,April 2005,2005/2006,0
-108,KIL 11146,"Hoi Fai Road, West Kowloon Reclamation (Site B1)",Residential R1,1.1353 ha,,,April 2005,2005/2006,0
-109,KIL 11167,"J/O Hoi Wang Road and Hoi Ting Road, West Kowloon Reclamation Area",Residential R1,0.6179 ha,,,April 2005,2005/2006,0
-110,Lot 673 DD Peng Chau,"Site 2, Tung Wan, Peng Chau",Residential R3,0.1093 ha,,,August 2005,2005/2006,0
-111,NKIL 6350,"Fung Shing Street, Ngau Chi Wan",Residential R2,1.4400 ha,,,September 2005,2005/2006,0
-112,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0527 ha,,,October 2005,2005/2006,0
-113,IL 8914,Ex-Hollywood Road Police Quarters,Residential R1,0.5818 ha,,,October 2005,2005/2006,0
-114,TMTL 422,"Area 58, Tuen Mun (Ex-Pearl Island Quarters)",Residential R3,1.5030 ha,,,October 2005,2005/2006,0
-115,Lot 1848 DD Cheung Chau,"Sai Wan, Shui Hang, Cheung Chau",Residential R4,1.0382 ha,,,November 2005,2005/2006,0
-116,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,November 2005,2005/2006,0
-117,NKIL 6311,"J/o Sheung Yuet Road, Wang Tai Road & Wang Yuen Street",Business,0.2579 ha,,,November 2005,2005/2006,0
-118,Lot 2129 in DD 121,"Ping Shan Development Stage II, Yuen Long",Residential R3,0.6020 ha,,,December 2005,2005/2006,0
-119,NKIL 6313,J/o Cheung Yip Street & Sheung Yee Road,Business,0.2560 ha,,,December 2005,2005/2006,0
-120,TLTL 68,"Tsing Lung Tau, Tsuen Wan (Dragon Villa)",Residential R3,0.2500 ha,,,December 2005,2005/2006,0
-121,Lot 674 DD Peng Chau,"Site 1, Tung Wan, Peng Chau",Residential R3,0.1760 ha,,,December 2005,2005/2006,0
-122,IL 9007,103 Mt. Nicholson Road,Residential R3,2.3290 ha,,,January 2006,2005/2006,0
-123,STTL 548,"Site 9A & B, Area 77, Ma On Shan",Residential R2,1.6100 ha,,,January 2006,2005/2006,0
-124,TPTL 188,"Pak Shek Kok Reclamation Phase I, Site C",Residential R2,1.9613 ha,,,February 2006,2005/2006,0
-125,TPTL 187,"Pak Shek Kok Reclamation Phase I, Site A",Residential R2,0.9976 ha,,,February 2006,2005/2006,0
-126,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,February 2006,2005/2006,0
-127,KIL 11073,"J/O Hoi Wan Road, Yan Cheung Road and Yau Cheung Road, West Kowloon Reclamation",Residential R1,0.8060 ha,,,March 2006,2005/2006,0
-128,IL 8949,"21, 23 and 25 Borrett Road, Mid-levels West",Residential R2,1.0488 ha,,,March 2006,2005/2006,0
-129,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Commercial,1.7460 ha,,,March 2006,2005/2006,0
-130,RBL 1159,"Peak Pavilions, 12 Mt. Kellett Road, The Peak",Residential R3,0.7353 ha,,,Now,2006/2007,1
-131,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,,,Now,2006/2007,1
-132,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2006/2007,1
-133,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3528 ha,,,Now,2006/2007,1
-134,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,Now,2006/2007,1
-135,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4250 ha,,,Now,2006/2007,1
-136,RBL 1168,Near 35 South Bay Road,Residential R3,0.1460 ha,,,Now,2006/2007,1
-137,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,Now,2006/2007,1
-138,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4160 ha,,,Now,2006/2007,1
-139,KIL 11146,"Site E/A3, Hoi Fai Road, West Kowloon Reclamation (Site B1)",Residential R1,1.1353 ha,,,Now,2006/2007,1
-140,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,Now,2006/2007,1
-141,TMTL 422,"Area 58, Tuen Mun (Ex-Pearl Island Quarters)",Residential R3,1.5030 ha,,,Now,2006/2007,1
-142,Lot 1848 DD Cheung Chau,"Sai Wan, Shui Hang, Cheung Chau",Residential R4,1.0382 ha,,,Now,2006/2007,1
-143,NKIL 6311,"J/o Sheung Yuet Road, Wang Tai Road & Wang Yuen Street",Business,0.2579 ha,,,Now,2006/2007,1
-144,Lot 2129 DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2006/2007,1
-145,NKIL 6313,J/o Cheung Yip Street & Sheung Yee Road,Business,0.3795 ha,,,Now,2006/2007,1
-146,TLTL 68,"Tsing Lung Tau, Tsuen Wan (Dragon Villa)",Residential R3,0.2076 ha,,,Now,2006/2007,1
-147,STTL 548,"Area 77, Ma On Shan",Residential R2,1.6440 ha,,,Now,2006/2007,1
-148,TPTL 188,"Pak Shek Kok Reclamation Phase I, Site C",Residential R2,1.9902 ha,,,Now,2006/2007,1
-149,TPTL 187,"Pak Shek Kok Reclamation Phase I, Site A",Residential R2,1.0028 ha,,,Now,2006/2007,1
-150,KIL 11073,"J/O Hoi Wang Road, Yan Cheung Road and Yau Cheung Road, West Kowloon Reclamation",Residential R1,0.8060 ha,,,Now,2006/2007,1
-151,IL 8949,"21, 23 And 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,Now,2006/2007,1
-152,IL 9007,103 Mt. Nicholson Road,Residential R3,2.3290 ha,,,July 2006,2006/2007,1
-153,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,,,August 2006,2006/2007,1
-154,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4110 ha,,,September 2006,2006/2007,1
-155,Lot 1950 DD 221,"Sai Kung Town, Area 4",Commercial,1.7940 ha,,,February 2007,2006/2007,1
-156,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,,,Planning Brief Under Preparation,2006/2007,1
-157,IL 8914,Ex-Hollywood Road Police Quarters,Residential R1,0.5818 ha,,,Planning Brief Under Preparation,2006/2007,1
-158,Lot 246 DD 331,"Cheung Sha, Lantau Island",Residential R4,0.2240 ha,,,June 2006,2006/2007,0
-159,TMTL 449,"Area 58, Tuen Mun (Tsing Fat Street)",Residential R3,1.7040 ha,,,July 2006,2006/2007,0
-160,NKIL6374,1 Broadcast Drive,Residential R2,0.6080 ha,,,September 2006,2006/2007,0
-161,STTL 433,"Junction of On Kwan Street and On Yiu Street, Area 11, Sha Tin",Business (incl Public Storey Carpark),0.8530 ha,,,September 2006,2006/2007,0
-162,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Homantin, Hung Hom, Kowloon",Residential R1,0.1880 ha,,,October 2006,2006/2007,0
-163,NKIL 6309,"Ex-Wong Tai Sin Police Quarters, 3 Chun Yan Street",Residential R1,0.9470 ha,,,October 2006,2006/2007,0
-164,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential / Commercial,0.0306 ha,,,October 2006,2006/2007,0
-165,TPTL 195,"Former Departmental Quarters, Plover Cove Road, Tai Po",Residential / Commercial,0.2685 ha,,,October 2006,2006/2007,0
-166,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial,0.4878 ha,,,October 2006,2006/2007,0
-167,Lot 676 DD Peng Chau,Peng Chau,Residential R3,0.4640 ha,,,December 2006,2006/2007,0
-168,STTL 463,"Junction of On Kwan Street and On Yiu Street, Area 11, Sha Tin",Business,0.7190 ha,,,December 2006,2006/2007,0
-169,Lot 245 DD 331,"Cheung Sha, Lantau Island",Residential R4,1.6600 ha,,,January 2007,2006/2007,0
-170,Lot 1176 DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1699 ha,,,February 2007,2006/2007,0
-171,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business,0.7127 ha,,,February 2007,2006/2007,0
-172,KIL 11175,"J/O Fat Kwong Street and Chung Hau Streeet, Homantin (Ex-Valley Road Estate Ph 2)",Residential R1,1.6291 ha,,,March 2007,2006/2007,0
-173,TCTL 22,"Tung Chung Area 56, Lantau Island",Residential R2,3.3337 ha,,,March 2007,2006/2007,0
-174,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Commercial,0.6623 ha,,,March 2007,2006/2007,0
-175,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2007/2008,1
-176,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3528 ha,,,Now,2007/2008,1
-177,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4250 ha,,,Now,2007/2008,1
-178,RBL 1168,Near 35 South Bay Road,Residential R3,0.1460 ha,,,Now,2007/2008,1
-179,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,Now,2007/2008,1
-180,KIL 11146,"Hoi Fai Road, West Kowloon Reclamation Site B1",Residential R1,1.1353 ha,,,Now,2007/2008,1
-181,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,Now,2007/2008,1
-182,TMTL 422,"Area 58, Tuen Mun (Ex-Pearl Island Quarters)",Residential R3,1.5030 ha,,,Now,2007/2008,1
-183,Lot 1848 DD Cheung Chau,"Sai Wan, Shui Hang, Cheung Chau",Residential R4,1.0382 ha,,,Now,2007/2008,1
-184,Lot 2129 DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2007/2008,1
-185,KIL 11073,"J/O Hoi Wang Road, Yan Cheung Road and Yau Cheung Road, West Kowloon Reclamation",Residential R1,0.8060 ha,,,Now,2007/2008,1
-186,IL 8949,"21, 23 And 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,Now,2007/2008,1
-187,IL 9007,103 Mt. Nicholson Road,Residential R3,2.3312 ha,,,Now,2007/2008,1
-188,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,,,Now,2007/2008,1
-189,TMTL 449,"Tsing Fat Street, Tuen Mun",Residential R3,1.7042 ha,,,Now,2007/2008,1
-190,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Homantin, Kowloon",Residential R1,0.1902 ha,,,Now,2007/2008,1
-191,NKIL 6309,"Ex-Wong Tai Sin Police Quarters, 3 Chun Yan Street",Residential R1,0.9502 ha,,,Now,2007/2008,1
-192,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential/Commercial,0.0306 ha,,,Now,2007/2008,1
-193,Lot 676 DD Peng Chau,Peng Chau,Residential R3,0.4565 ha,,,Now,2007/2008,1
-194,Lot 245 DD 331,"Cheung Sha, Lantau Island",Residential R4,1.6587 ha,,,Now,2007/2008,1
-195,KIL 11175,"J/O Fat Kwong Street and Chung Hau Street, Homantin (Ex-Valley Road Estate Ph 2)",Residential R1,1.6151 ha,,,Now,2007/2008,1
-196,TCTL 22,"Tung Chung Area 56, Lantau Island",Residential R2,3.2900 ha,,,Now,2007/2008,1
-197,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,Now,2007/2008,1
-198,NKIL 6311,"J/o Sheung Yuet Road, Wang Tai Road & Wang Yuen Street",Business,0.2579 ha,,,Now,2007/2008,1
-199,NKIL 6313,"Cheung Yip Street, Kowloon",Business,0.3795 ha,,,Now,2007/2008,1
-200,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,Now,2007/2008,1
-201,Lot 1950 DD 221,"Sai Kung Town, Area 4",Commercial,1.7940 ha,,,Now,2007/2008,1
-202,STTL 433,"On Yiu Street/On Kwan Street/On Lai Street, Shek Mun, Sha Tin",Business,0.8533 ha,,,Now,2007/2008,1
-203,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial,0.4878 ha,,,Now,2007/2008,1
-204,STTL 463,"On Yiu Street/On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,Now,2007/2008,1
-205,Lot 1176 in D.D. 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2007/2008,1
-206,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business,0.7083 ha,,,Now,2007/2008,1
-207,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Commercial,0.6600 ha,,,Now,2007/2008,1
-208,IL 8914,Ex-Hollywood Road Police Quarters,Residential R1,0.5818 ha,,,December 2007,2007/2008,1
-209,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,,,January 2008,2007/2008,1
-210,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4160 ha,,,February 2008,2007/2008,1
-211,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.1700 ha,,,February 2008,2007/2008,1
-212,FSSTL 202,"Area 21, Fan Leng Lau Road",Residential R1,0.2560 ha,,,April 2007,2007/2008,0
-213,Lot 734 DD 4,"Mui Wo, Lantau",Residential R4,0.2419 ha,,,May 2007,2007/2008,0
-214,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,May 2007,2007/2008,0
-215,TPTL 186,"Pak Shek Kok Development Area, Phase 1, Site B",Residential R2,2.2140 ha,,,October 2007,2007/2008,0
-216,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street, Tung Tau",Business,0.4748 ha,,,January 2008,2007/2008,0
-217,KIL 11120,Hung Hom Bay Reclamation Site D1,Residential R1,0.7470 ha,,,February 2008,2007/2008,0
-218,FSSTL 177,"Area 19, Sha Tau Kok Road",Residential R1,0.8900 ha,,,February 2008,2007/2008,0
-219,NKIL 6312,"Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,March 2008,2007/2008,0
-220,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street",Residential R2,0.7284 ha,,,March 2008,2007/2008,0
-221,Lot 1588 DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay",Residential R4,0.7650 ha,,,March 2008,2007/2008,0
-222,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel / Residential / Commercial,1.1700 ha,,,March 2009,2008/2009,1
-223,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Hotel,0.2579 ha,,,August 2008,2008/2009,1
-224,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Hotel,0.6600 ha,,,August 2008,2008/2009,1
-225,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Hotel,0.7083 ha,,,August 2008,2008/2009,1
-226,TSWTL 26,"Area 108A, Tin Shui Wai",Hotel,0.6500 ha,,,August 2008,2008/2009,1
-227,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,September 2008,2008/2009,1
-228,TWTL 393,"Yeung Uk Road, Tsuen Wan",Hotel,1.4160 ha,,,December 2008,2008/2009,1
-229,IL 9007,"103 Mt. Nicholson Road, The Peak, Hong Kong",Residential R3,2.3312 ha,,,Now,2008/2009,1
-230,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2008/2009,1
-231,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,Now,2008/2009,1
-232,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,Now,2008/2009,1
-233,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential / Commercial,0.0306 ha,,,Now,2008/2009,1
-234,FSSTL 202,"Area 21, Junction of Fan Leng Lau Road, Wo Muk Road and Luen Hing Street, Fanling",Residential R1,0.2560 ha,,,Now,2008/2009,1
-235,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Residential R1,0.8900 ha,,,Now,2008/2009,1
-236,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,Now,2008/2009,1
-237,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,Now,2008/2009,1
-238,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2008/2009,1
-239,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.1804 ha,,,June 2008,2008/2009,1
-240,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,June 2008,2008/2009,1
-241,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street, Kowloon",Residential R2,0.7326 ha,,,June 2008,2008/2009,1
-242,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,August 2008,2008/2009,1
-243,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,August 2008,2008/2009,1
-244,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.2808 ha,,,August 2008,2008/2009,1
-245,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,August 2008,2008/2009,1
-246,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,September 2008,2008/2009,1
-247,KIL 11175,"Junction of Fat Kwong Street and Chung Hau Street, Homantin, Kowloon (Ex-Valley Road Estate Ph 2)",Residential R2,1.6151 ha,,,October 2008,2008/2009,1
-248,KIL 11120,"Hung Hom Bay Reclamation Site D1, Junction of Oi King Street and Hung Luen Road, Kowloon",Residential R2,0.7480 ha,,,March 2009,2008/2009,1
-249,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,0.7976 ha,,,March 2009,2008/2009,1
-250,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,Now,2008/2009,1
-251,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,Now,2008/2009,1
-252,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,Now,2008/2009,1
-253,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2008/2009,1
-254,STTL 433,"Junction of On Yiu Street, On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.8533 ha,,,Now,2008/2009,1
-255,STTL 463,"Junction of On Yiu Street and On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,Now,2008/2009,1
-256,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,August 2008,2008/2009,1
-257,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street West, Tung Tau, Yuen Long",Business,0.4748 ha,,,February 2009,2008/2009,1
-258,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.6000 ha,,,March 2009,2008/2009,0
-259,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0700 ha,,,March 2009,2008/2009,0
-260,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.6000 ha,,,March 2009,2008/2009,0
-261,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,April 2008,2008/2009,0
-262,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,April 2008,2008/2009,0
-263,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1771 ha,,,April 2008,2008/2009,0
-264,Lot 1200 in DD 217,"Pak Sha Wan, Sai Kung",Residential R3,0.0190 ha,,,April 2008,2008/2009,0
-265,Lot 726 in DD 4,"Mui Wo, Lantau",Residential R3,0.2260 ha,,,September 2008,2008/2009,0
-266,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1700 ha,,,September 2008,2008/2009,0
-267,NKIL 6493,"Inverness Road, Kowloon Tong",Residential R3,0.7040 ha,,,March 2009,2008/2009,0
-268,TCTL 37,"Tung Chung Area 55b, Lantau",Residential R2,2.6200 ha,,,March 2009,2008/2009,0
-269,Lot 750 in DD 85,"Queen's Hill, Fanling",Residential R3,16.4200 ha,,,March 2009,2008/2009,0
-270,TKOTL 76,Tseung Kwan O Area 66B,Residential R1,1.6100 ha,,,March 2009,2008/2009,0
-271,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.3910 ha,,,March 2009,2008/2009,0
-272,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.6060 ha,,,March 2009,2008/2009,0
-273,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5200 ha,,,March 2009,2008/2009,0
-274,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8480 ha,,,March 2009,2008/2009,0
-275,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.7780 ha,,,March 2009,2008/2009,0
-276,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9100 ha,,,March 2009,2008/2009,0
-277,TPTL 200,"Pak Shek Kok Development Area, Phase 2, Site D1, Tai Po",Residential R3,2.0925 ha,,,March 2009,2008/2009,0
-278,TPTL 201,"Pak Shek Kok Development Area, Phase 2, Site D2, Tai Po",Residential R3,2.0925 ha,,,March 2009,2008/2009,0
-279,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1100 ha,,,March 2009,2008/2009,0
-280,KIL 11202,"Ex-Ho Man Tin Police Quarters, 81 Chung Hau Street, Homantin, Kowloon",Residential R2,0.4300 ha,,,March 2009,2008/2009,0
-281,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2800 ha,,,March 2009,2008/2009,0
-282,IL 8998,"Chung Kong Road, adjacent to Shun Tak Centre, Hong Kong",Commercial,0.6028 ha,,,March 2009,2008/2009,0
-283,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3900 ha,,,March 2009,2008/2009,0
-284,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel / Residential / Commercial,1.1400 ha,,,December 2009,2009/2010,1
-285,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Hotel,0.2579 ha,,,Now,2009/2010,1
-286,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Hotel,0.6600 ha,,,Now,2009/2010,1
-287,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Hotel,0.7083 ha,,,Now,2009/2010,1
-288,TSWTL 26,"Area 108A, Tin Shui Wai",Hotel,0.6500 ha,,,Now,2009/2010,1
-289,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,Now,2009/2010,1
-290,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5360 ha,,,December 2009,2009/2010,1
-291,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0700 ha,,,Now,2009/2010,1
-292,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.6000 ha,,,December 2009,2009/2010,1
-293,IL 9007,"103 Mt. Nicholson Road, The Peak, Hong Kong",Residential R3,2.3312 ha,,,Now,2009/2010,1
-294,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2009/2010,1
-295,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,Now,2009/2010,1
-296,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,Now,2009/2010,1
-297,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential / Commercial,0.0306 ha,,,Now,2009/2010,1
-298,FSSTL 202,"Area 21, Junction of Fan Leng Lau Road, Wo Muk Road and Luen Hing Street, Fanling",Residential R1,0.2560 ha,,,Now,2009/2010,1
-299,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Residential R1,0.8900 ha,,,Now,2009/2010,1
-300,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,March 2010,2009/2010,1
-301,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2009/2010,1
-302,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.1804 ha,,,Now,2009/2010,1
-303,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,Now,2009/2010,1
-304,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street, Kowloon",Residential R2,0.7326 ha,,,Now,2009/2010,1
-305,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,Now,2009/2010,1
-306,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,Now,2009/2010,1
-307,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.2808 ha,,,Now,2009/2010,1
-308,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,Now,2009/2010,1
-309,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,June 2009,2009/2010,1
-310,KIL 11175,"Junction of Fat Kwong Street and Chung Hau Street, Homantin, Kowloon (Ex-Valley Road Estate Ph 2)",Residential R2,1.6151 ha,,,June 2009,2009/2010,1
-311,KIL 11120,"Hung Hom Bay Reclamation Site D1, Junction of Oi King Street and Hung Luen Road, Kowloon",Residential R2,0.7551 ha,,,June 2009,2009/2010,1
-312,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,0.7976 ha,,,March 2010,2009/2010,1
-313,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,Now,2009/2010,1
-314,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,Now,2009/2010,1
-315,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,Now,2009/2010,1
-316,Lot 726 in DD 4,"Mui Wo, Lantau",Residential R3,0.2260 ha,,,Now,2009/2010,1
-317,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1733 ha,,,Now,2009/2010,1
-318,NKIL 6493,"Inverness Road, Kowloon Tong",Residential R3,0.7040 ha,,,October 2009,2009/2010,1
-319,TCTL 37,"Tung Chung Area 55b, Lantau",Residential R2,2.6200 ha,,,Now,2009/2010,1
-320,Lot 750 in DD 85,"Queen's Hill, Fanling",Residential R3,16.4200 ha,,,March 2010,2009/2010,1
-321,TKOTL 76,Tseung Kwan O Area 66B,Residential R1,1.2300 ha,,,October 2009,2009/2010,1
-322,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.4680 ha,,,Now,2009/2010,1
-323,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.5950 ha,,,Now,2009/2010,1
-324,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5480 ha,,,Now,2009/2010,1
-325,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8590 ha,,,Now,2009/2010,1
-326,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.8080 ha,,,Now,2009/2010,1
-327,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9700 ha,,,Now,2009/2010,1
-328,TPTL 200,"Pak Shek Kok Development Area, Phase 2, Site D1, Tai Po",Residential R3,2.0925 ha,,,Now,2009/2010,1
-329,TPTL 201,"Pak Shek Kok Development Area, Phase 2, Site D2, Tai Po",Residential R3,2.0925 ha,,,Now,2009/2010,1
-330,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1100 ha,,,June 2009,2009/2010,1
-331,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2810 ha,,,Now,2009/2010,1
-332,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,Now,2009/2010,1
-333,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,Now,2009/2010,1
-334,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,Now,2009/2010,1
-335,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2009/2010,1
-336,STTL 433,"Junction of On Yiu Street, On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.8533 ha,,,Now,2009/2010,1
-337,STTL 463,"Junction of On Yiu Street and On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,Now,2009/2010,1
-338,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,Now,2009/2010,1
-339,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street West, Tung Tau, Yuen Long",Business,0.4748 ha,,,Now,2009/2010,1
-340,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3900 ha,,,December 2009,2009/2010,1
-341,STTL 525,"Shatin Area 56A, Kau To (Site A)",Residential R2,2.1900 ha,,,October 2009,2009/2010,0
-342,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5220 ha,,,March 2010,2009/2010,0
-343,STTL 412,"Junction of On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.5900 ha,,,December 2009,2009/2010,0
-344,TCTL 11,"Area 3A, Tung Chung, Lantau",Commercial,1.0000 ha,,,December 2009,2009/2010,0
-345,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel and Residential / Commercial,0.7887 ha,,,Now,2010/2011,1
-346,IL 9007,"103 Mt. Nicholson Road, The Peak, Hong Kong",Residential R3,2.3312 ha,,,Now,2010/2011,1
-347,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,Now,2010/2011,1
-348,KIL 11175,"Junction of Fat Kwong Street and Chung Hau Street, Homantin, Kowloon (Ex-Valley Road Estate Ph 2)",Residential R2,1.6151 ha,,,Now,2010/2011,1
-349,NKIL 6493,"Inverness Road, Kowloon Tong",Residential R3,0.7046 ha,,,Now,2010/2011,1
-350,IL 8963,"Former Lingnan College Site, Stubbs Road",Residential R3,1.4900 ha,,,March 2011,2010/2011,0
-351,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Hotel,0.2579 ha,,,Now,2010/2011,1
-352,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Hotel,0.6600 ha,,,Now,2010/2011,1
-353,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Hotel,0.7083 ha,,,Now,2010/2011,1
-354,TSWTL 26,"Area 108A, Tin Shui Wai",Hotel,0.6500 ha,,,Now,2010/2011,1
-355,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,Now,2010/2011,1
-356,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5369 ha,,,Now,2010/2011,1
-357,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0717 ha,,,Now,2010/2011,1
-358,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.5623 ha,,,Now,2010/2011,1
-359,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2010/2011,1
-360,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.2808 ha,,,Now,2010/2011,1
-361,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,Now,2010/2011,1
-362,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,Now,2010/2011,1
-363,FSSTL 202,"Area 21, Junction of Fan Leng Lau Road, Wo Muk Road and Luen Hing Street, Fanling",Residential R1,0.2560 ha,,,Now,2010/2011,1
-364,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Residential R1,0.8900 ha,,,Now,2010/2011,1
-365,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2010/2011,1
-366,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.1804 ha,,,Now,2010/2011,1
-367,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street, Kowloon",Residential R2,0.7326 ha,,,Now,2010/2011,1
-368,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,Now,2010/2011,1
-369,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,Now,2010/2011,1
-370,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,Now,2010/2011,1
-371,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,Now,2010/2011,1
-372,KIL 11120,"Hung Hom Bay Reclamation Site D1, Junction of Oi King Street and Hung Luen Road, Kowloon",Residential R2,0.7551 ha,,,Now,2010/2011,1
-373,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,Now,2010/2011,1
-374,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,Now,2010/2011,1
-375,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,Now,2010/2011,1
-376,Lot 726 in DD 4,"Mui Wo, Lantau",Residential and Commercial,0.2260 ha,,,Now,2010/2011,1
-377,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1733 ha,,,Now,2010/2011,1
-378,TCTL 37,"Tung Chung Area 55b, Lantau",Residential R2,2.6200 ha,,,Now,2010/2011,1
-379,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.4680 ha,,,Now,2010/2011,1
-380,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.5950 ha,,,Now,2010/2011,1
-381,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5480 ha,,,Now,2010/2011,1
-382,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8590 ha,,,Now,2010/2011,1
-383,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.8080 ha,,,Now,2010/2011,1
-384,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9700 ha,,,Now,2010/2011,1
-385,STTL 525,"Shatin Area 56A, Kau To (Site A)",Residential R2,2.3085 ha,,,Now,2010/2011,1
-386,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1192 ha,,,Now,2010/2011,1
-387,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2810 ha,,,Now,2010/2011,1
-388,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,March 2011,2010/2011,1
-389,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,Now,2010/2011,1
-390,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,Now,2010/2011,1
-391,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,Now,2010/2011,1
-392,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2010/2011,1
-393,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street West, Tung Tau, Yuen Long",Business,0.4748 ha,,,Now,2010/2011,1
-394,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3703 ha,,,Now,2010/2011,1
-395,TCTL 11,"Area 3A, Tung Chung, Lantau",Commercial,1.0026 ha,,,April 2010,2010/2011,1
-396,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5090 ha,,,August 2010,2010/2011,1
-397,RBL 1190,"8-12 Deep Water Bay Drive, Shouson Hill",Residential R3,1.0249 ha,,,December 2010,2010/2011,0
-398,Lot 724 in DD 332,"Cheung Sha Site 406, Lantau",Residential R4,0.7390 ha,,,November 2010,2010/2011,0
-399,Lot 726 in DD 332,"Cheung Sha Site 407, Lantau",Residential R4,0.7540 ha,,,November 2010,2010/2011,0
-400,Lot 1282 in DD 253,"Junction of Pak Shek Wo San Tsuen Road and Clear Water Bay Road, Sai Kung",Residential R3,0.2384 ha,,,March 2011,2010/2011,0
-401,Lot 678 in DD Peng Chau,Peng Chau,Residential and Commercial,0.5200 ha,,,August 2010,2010/2011,0
-402,HHIL 556,"5-23 Lee Kung Street, Hung Hom",Residential R1,0.1300 ha,,,September 2010,2010/2011,0
-403,Lot 2086 in DD 105,"Ngau Tam Mei, off San Tam Road, near Maple Gardens, Yuen Long",Residential R4,2.3580 ha,,,March 2011,2010/2011,0
-404,TMTL 490,"Castle Peak Road, Tai Lam Chung, Tuen Mun",Residential R3,0.2050 ha,,,January 2011,2010/2011,0
-405,TMTL 434,"Junction of Ka Wo Li Hill Road and Castle Peak Road, Area 55, So Kwun Wat, Tuen Mun",Residential R3,0.3600 ha,,,January 2011,2010/2011,0
-406,HHIL 555,"Junction of Bulkeley Street and Gillies Avenue South, Hung Hom",Residential R1,0.0575 ha,,,March 2011,2010/2011,0
-407,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,April 2011,2011/2012,1
-408,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,April 2011,2011/2012,1
-409,IL 8963,"Former Lingnan College Site, Stubbs Road",Residential R3,1.4900 ha,,,April 2011,2011/2012,1
-410,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel and Residential / Commercial,0.7887 ha,,,June 2011,2011/2012,1
-411,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,April 2011,2011/2012,1
-412,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0717 ha,,,April 2011,2011/2012,1
-413,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business,0.7083 ha,,,April 2011,2011/2012,1
-414,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Commercial,0.6600 ha,,,April 2011,2011/2012,1
-415,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,April 2011,2011/2012,1
-416,STTL 463,"Junction of On Yiu Street and On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,April 2011,2011/2012,0
-417,STTL 412,"Junction of On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.6540 ha,,,July 2011,2011/2012,0
-418,Lot 2086 in DD 105,"Ngau Tam Mei, off San Tam Road, near Maple Gardens, Yuen Long",Residential R4,2.3480 ha,,,April 2011,2011/2012,1
-419,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,April 2011,2011/2012,1
-420,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,April 2011,2011/2012,1
-421,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,April 2011,2011/2012,1
-422,RBL 1190,"8-12 Deep Water Bay Drive, Shouson Hill",Residential R3,1.0249 ha,,,April 2011,2011/2012,1
-423,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,April 2011,2011/2012,1
-424,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,April 2011,2011/2012,1
-425,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1733 ha,,,April 2011,2011/2012,1
-426,Lot 1282 in DD 253,"Junction of Pak Shek Wo San Tsuen Road and Clear Water Bay Road, Sai Kung",Residential R3,0.2400 ha,,,April 2011,2011/2012,1
-427,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2810 ha,,,April 2011,2011/2012,1
-428,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,April 2011,2011/2012,1
-429,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,April 2011,2011/2012,1
-430,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,April 2011,2011/2012,1
-431,Lot 678 in DD Peng Chau,Peng Chau,Residential and Commercial,0.5200 ha,,,April 2011,2011/2012,1
-432,Lot 726 in DD 4,"Mui Wo, Lantau",Residential and Commercial,0.2260 ha,,,April 2011,2011/2012,1
-433,Lot 724 in DD 332,"Cheung Sha Site 406, Lantau",Residential R4,0.7410 ha,,,April 2011,2011/2012,1
-434,Lot 726 in DD 332,"Cheung Sha Site 407, Lantau",Residential R4,0.7550 ha,,,April 2011,2011/2012,1
-435,STTL 525,"Shatin Area 56A, Kau To (Site A)",Residential R2,2.3056 ha,,,April 2011,2011/2012,1
-436,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.4680 ha,,,April 2011,2011/2012,1
-437,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.5950 ha,,,April 2011,2011/2012,1
-438,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5480 ha,,,April 2011,2011/2012,1
-439,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8590 ha,,,April 2011,2011/2012,1
-440,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.8080 ha,,,April 2011,2011/2012,1
-441,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9700 ha,,,April 2011,2011/2012,1
-442,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,April 2011,2011/2012,1
-443,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1192 ha,,,June 2011,2011/2012,1
-444,TMTL 434,"Junction of Ka Wo Li Hill Road and Castle Peak Road, Area 55, So Kwun Wat, Tuen Mun",Residential R3,0.3550 ha,,,June 2011,2011/2012,1
-445,TMTL 490,"Castle Peak Road, Tai Lam Chung, Tuen Mun",Residential R3,0.2050 ha,,,June 2011,2011/2012,1
-446,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5369 ha,,,April 2011,2011/2012,1
-447,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.5623 ha,,,April 2011,2011/2012,1
-448,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,April 2011,2011/2012,1
-449,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Business,0.2579 ha,,,April 2011,2011/2012,1
-450,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,April 2011,2011/2012,1
-451,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,April 2011,2011/2012,1
-452,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,April 2011,2011/2012,1
-453,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3703 ha,,,April 2011,2011/2012,1
-454,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5090 ha,,,April 2011,2011/2012,1
-455,TCTL 11,"Area 3A, Tung Chung, Lantau",Commercial,1.0026 ha,,,April 2011,2011/2012,1
-456,KIL 11227,"Junction of Sheung Lok Street and Sheung Shing Street, former Homantin Estate Redevelopment Ph 2 and 7 sites",Residential R2,2.0810 ha,,,July 2011,2011/2012,0
-457,KIL 11228,"Junction of Fat Kwong Street and Sheung Foo Street, former Homantin Estate Redevelopment Ph 3 site",Residential R2,0.7191 ha,,,July 2011,2011/2012,0
-458,TMTL 436,"Kwun Fat Street, Siu Lam, Tuen Mun",Residential R4,0.8980 ha,,,August 2011,2011/2012,0
-459,TMTL 423,"Ex-Perowne Barracks North site, Area 48, Castle Peak Road, Tuen Mun",Residential R3,6.6970 ha,,,October 2011,2011/2012,0
-460,TKOTL 113,Tseung Kwan O Area 66A,Residential R2,1.3400 ha,,,October 2011,2011/2012,0
-461,TKOTL 114,Tseung Kwan O Area 66C1,Residential R2,0.4340 ha,,,October 2011,2011/2012,0
-462,TKOTL 115,Tseung Kwan O Area 66D1,Residential R2,0.5030 ha,,,October 2011,2011/2012,0
-463,TKOTL 119,Tseung Kwan O Area 66B2,Residential R2,0.8260 ha,,,October 2011,2011/2012,0
-464,ApIIL 135,Junction of Ap Lei Chau Drive and Ap Lei Chau Praya Road,Residential R1,0.3050 ha,,,November 2011,2011/2012,0
-465,IL 9027,"Eastern part of ex-North Point Estate, North Point",Residential and Commercial,2.9300 ha,,,March 2012,2011/2012,0
-466,TKOTL 95,Tseung Kwan O Area 68A,Residential R3,3.7300 ha,,,March 2012,2011/2012,0
-467,TKOTL 117,Tseung Kwan O Area 66C2,Residential R3,1.3000 ha,,,March 2012,2011/2012,0
-468,TKOTL 118,Tseung Kwan O Area 66D2,Residential R3,1.5000 ha,,,March 2012,2011/2012,0
-469,STTL 574,"Lok Wo Sha, Ma On Shan, Sha Tin",Residential R3,1.7400 ha,,,March 2012,2011/2012,0
-470,TMTL 495,"So Kwun Wat, Tuen Mun, near Grandview Terrace",Residential R4,0.1950 ha,,,March 2012,2011/2012,0
-471,RBL 1190,"8-12 Deep Water Bay Drive, Shouson Hill",Residential R3,1.0249 ha,,,Now,2012/2013,1
-472,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,Now,2012/2013,1
-473,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,Now,2012/2013,1
-474,Lot 678 in DD Peng Chau,Peng Chau,Residential and Commercial,0.5200 ha,,,Now,2012/2013,1
-475,STTL 562,"Area 56A, Kau To, Sha Tin (Site B5)",Residential R3,0.4680 ha,,,Now,2012/2013,1
-476,STTL 563,"Area 56A, Kau To, Sha Tin (Site B6)",Residential R3,0.5950 ha,,,Now,2012/2013,1
-477,STTL 565,"Area 56A, Kau To, Sha Tin (Site B1)",Residential R3,0.8590 ha,,,Now,2012/2013,1
-478,STTL 566,"Area 56A, Kau To, Sha Tin (Site B2)",Residential R3,0.8080 ha,,,Now,2012/2013,1
-479,STTL 567,"Area 56A, Kau To, Sha Tin (Site B3&4)",Residential R3,1.9700 ha,,,Now,2012/2013,1
-480,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,Now,2012/2013,1
-481,TMTL 434,"Junction of Ka Wo Li Hill Road and Castle Peak Road, Area 55, So Kwun Wat, Tuen Mun",Residential R3,0.3457 ha,,,Now,2012/2013,1
-482,TMTL 490,"Castle Peak Road, Tai Lam Chung, Tuen Mun",Residential R3,0.2050 ha,,,Now,2012/2013,1
-483,KIL 11227,"Junction of Sheung Lok Street and Sheung Shing Street, Ho Man Tin",Residential R2,2.4077 ha,,,Now,2012/2013,1
-484,KIL 11228,"Junction of Fat Kwong Street and Sheung Foo Street, Ho Man Tin",Residential R2,0.7714 ha,,,Now,2012/2013,1
-485,TKOTL 117,Tseung Kwan O Area 66C2,Residential R3,1.2915 ha,,,March 2012,2012/2013,1
-486,TKOTL 118,Tseung Kwan O Area 66D2,Residential R3,1.4954 ha,,,March 2012,2012/2013,1
-487,STTL 574,"Lok Wo Sha, Ma On Shan, Sha Tin",Residential R2,1.4400 ha,,,March 2012,2012/2013,1
-488,TMTL 495,"Kwun Fung Street, Siu Lam, Tuen Mun",Residential R4,0.2010 ha,,,March 2012,2012/2013,1
-489,TKOTL 114,Tseung Kwan O Area 66C1,Residential R2,0.4352 ha,,,April 2012,2012/2013,1
-490,TKOTL 115,Tseung Kwan O Area 66D1,Residential R2,0.5026 ha,,,April 2012,2012/2013,1
-491,IL 9027,"Eastern part of ex-North Point Estate, North Point",Residential and Commercial,2.3400 ha,,,May 2012,2012/2013,1
-492,TKOTL 95,Tseung Kwan O Area 68A2,Residential R3,2.1306 ha,,,May 2012,2012/2013,1
-493,TKOTL 125,Tseung Kwan O Area 68A1,Residential R3,1.5969 ha,,,May 2012,2012/2013,1
-494,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5369 ha,,,Now,2012/2013,1
-495,IL 9036,"Murray Building, Cotton Tree Drive, Hong Kong",Hotel,0.6330 ha,,,March 2013,2012/2013,1
-496,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5090 ha,,,Now,2012/2013,1
-497,TCTL 11,"Area 3A, Tung Chung, Lantau Island",Commercial,1.0026 ha,,,Now,2012/2013,1
-498,IL 8947,"123 Gloucester Road and 219-227 Lockhart Road, former Wan Chai Police Station cum Wan Chai Police Married Quarters",Hotel / Commercial / Community & Cultural,0.3950 ha,,,March 2013,2012/2013,1
-499,Lot 750 in DD 332,"South Lantau Road, Cheung Sha, Lantau Island",Residential R4,0.1440 ha,,,March 2012,2012/2013,0
-500,STTL 579,"Area 56A, Kau To, Sha Tin",Residential R3,3.2910 ha,,,April 2012,2012/2013,0
-501,STTL 578,"Area 56A, Kau To, Sha Tin",Residential R3,1.7389 ha,,,May 2012,2012/2013,0
-502,KIL 11229,"7 Kwun Chung Street, Jordan, Kowloon",Residential R1,0.0263 ha,,,June 2012,2012/2013,0
-503,TMTL 435,"Area 55, Castle Peak Road, Tuen Mun",Residential R3,1.1600 ha,,,August 2012,2012/2013,0
-504,Lot 1949 in DD 221,"Sha Kok Mei, Sai Kung",Residential R3,1.5600 ha,,,October 2012,2012/2013,0
-505,TMTL 427,"Junction of So Kwun Wat Road and Kwun Chui Road, Tuen Mun",Residential R3,2.8160 ha,,,December 2012,2012/2013,0
-506,TMTL 498,"Junction of Wu On Street and Wu Hong Street, Tuen Mun",Residential R2,0.2260 ha,,,December 2012,2012/2013,0
-507,TMTL 497,"So Kwun Wat Road, Tuen Mun (opposite to A.D. & F.D. of Pok Oi Hospital Mrs. Cheng Yam On Millennium School)",Residential R3,0.3370 ha,,,January 2013,2012/2013,0
-508,NKIL 6516,"Kai Tak Area 1H Site 1, Kowloon",Residential R2,0.7772 ha,,,January 2013,2012/2013,0
-509,NKIL 6517,"Kai Tak Area 1H Site 2, Kowloon",Residential R2,0.8586 ha,,,January 2013,2012/2013,0
-510,TPTL 208,"Fo Chun Road, Pak Shek Kok, Tai Po",Residential R2,1.5000 ha,,,January 2013,2012/2013,0
-511,TPTL 211,"Fo Chun Road, Pak Shek Kok, Tai Po",Residential R2,1.5000 ha,,,January 2013,2012/2013,0
-512,IL 9048,"Schooner Street, Wan Chai",Residential R2,0.0270 ha,,,February 2013,2012/2013,0
-513,IL 9049,"Sik On Street, Wan Chai",Residential R2,0.0249 ha,,,February 2013,2012/2013,0
-514,RBL 1197,"Mount Austin Road, The Peak, Hong Kong",Residential R3,0.1306 ha,,,February 2013,2012/2013,0
-515,STTL 581,"Whitehead, Ma On Shan, Sha Tin",Residential R3,3.8024 ha,,,February 2013,2012/2013,0
-516,TKOTL 93,Tseung Kwan O Area 68B1,Residential R3,2.6850 ha,,,February 2013,2012/2013,0
-517,TKOTL 126,Tseung Kwan O Area 68B2,Residential R3,2.6843 ha,,,February 2013,2012/2013,0
-518,TKOTL 112,Tseung Kwan O Area 65C1,Residential R3,1.4000 ha,,,February 2013,2012/2013,0
-519,TKOTL 124,Tseung Kwan O Area 65C2,Residential R3,1.9900 ha,,,February 2013,2012/2013,0
-520,YLTL 528,"Tak Yip Street, Tung Tau, Yuen Long",Residential R2,0.4400 ha,,,February 2013,2012/2013,0
-521,Lot 1003 in DD 40,"Junction of Shun Lung Street and Shun Cheong Street, Sha Tau Kok",Residential R2,0.3344 ha,,,March 2013,2012/2013,0
-522,Lot 1004 in DD 40,"Che Ping Street, Sha Tau Kok",Residential R2,0.0458 ha,,,March 2013,2012/2013,0
-523,KIL 11235,"Junction of Argyle Street and Canton Road, Kowloon (ex-Mong Kok Market Site)",Commercial / Office / Hotel,0.1240 ha,,,March 2013,2012/2013,0
+66,KIL 11158,"Site E/A3, West Kowloon Reclamation (Site B2)",Residential R1,1.0450 ha,6.5/1,50.0,April 2002,2002/2003,1
+67,KIL 11146,"Site E/A3, West Kowloon Reclamation (Site B1)",Residential R1,1.1353 ha,6.5/1,50.0,April 2002,2002/2003,1
+68,NKIL 6308,"Junction of King Fuk Street, King Tai Street and Prince Edward Road East, San Po Kong",Residential R1,1.2701 ha,9,50.0,April 2002,2002/2003,1
+69,STTL 487,"Site 15, Area 77, Ma On Shan",Residential R2,1.4338 ha,5,50.0,April 2002,2002/2003,1
+70,NKIL 6196,"Junction of Cornwall Street and Tat Chee Avenue, Kowloon Tong",Residential R3,1.4700 ha,1.903,50.0,April 2002,2002/2003,1
+71,STTL 449,"Sites 21 and 22, Area 86B, Ma On Shan",Residential R2,2.1100 ha,5,50.0,April 2002,2002/2003,1
+72,KIL 11140,"Site F/A14, West Kowloon Reclamation",Residential R1,1.3576 ha,6.5/1,50.0,April 2002,2002/2003,1
+73,Lot 734 D.D. 4,"Sites 3 and 4, Mui Wo, Lantau",Residential R3,0.2419 ha,0.6,1.0,April 2002,2002/2003,0
+74,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,8,50.0,August 2002,2002/2003,0
+75,STTL 510,"Tung Lo Wan Hill Road, Sha Tin",Residential R2,1.2200 ha,2.3,30.0,September 2002,2002/2003,0
+76,KIL 11124,"Ex-Tin Kwong Road Police Married Quarters, Ho Man Tin",Residential R1,1.6730 ha,9,50.0,September 2002,2002/2003,0
+77,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,8,20.0,October 2002,2002/2003,0
+78,TKOTL 77,"Area 73B, Tseung Kwan O",Residential R1,1.2500 ha,6.5/0.16,50.0,December 2002,2002/2003,1
+79,STTL 536,"Area 11, Shek Mun, Sha Tin",Residential R1,1.7500 ha,5,50.0,December 2002,2002/2003,0
+80,TKOTL 87,"Area 74 South, Tseung Kwan O",Residential R1,1.7500 ha,7.15/1,50.0,December 2002,2002/2003,0
+81,TKOTL 86,"Area 74 South, Tseung Kwan O",Residential R1,2.4940 ha,7.15/1,50.0,December 2002,2002/2003,0
+82,NKIL 6330,"Sa Po Road, Kowloon City",Residential R1,0.3510 ha,9,40.0,January 2003,2002/2003,0
+83,YLTL 518,"Ex-Yuen Long Estate, Yuen Long",Residential R1,1.2400 ha,5,40.0,March 2003,2002/2003,1
+84,FSSTL 177,"Sha Tau Kok Road, Fanling",Residential / Commercial,0.8900 ha,5/9.5,30.0,April 2002,2002/2003,0
+85,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,Portion A: 10.55; Portion B: see Note 2,50.0,April 2002,2002/2003,1
+86,TWTL 393,"Yeung Uk Road, Tsuen Wan",Residential / Commercial,1.4200 ha,5/9.5,50.0,March 2003,2002/2003,0
+87,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,4,10.0,April 2002,2002/2003,0
+88,TCTL 11,"Area 3A, Tung Chung",Commercial and Public Transport Terminus,1.0212 ha,3,2.0,April 2002,2002/2003,0
+89,KIL 11111,Hung Hom Bay Reclamation,Commercial and Public Transport Terminus,2.9356 ha,6.855,50.0,October 2002,2002/2003,0
+90,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business and Multi-storey Carpark,0.7166 ha,12,30.0,January 2003,2002/2003,0
+91,KCTL 487,"Wang Kei Road, Kwai Chung",Industrial / Industrial - Office,0.1482 ha,9.5,2.0,September 2002,2002/2003,1
+92,CWIL 165,Chai Wan Reclamation,Industrial / Industrial - Office,0.5247 ha,15,10.0,December 2002,2002/2003,0
+93,KCTL 478,"Wing Kin Road, Kwai Chung",Industrial / Industrial-Office/Godown and Multi-storey Carpark and LPG Vehicle Repair Workshop,0.3707 ha,9.5,0.5,September 2002,2002/2003,1
+94,TYTL 164,"Tsing Keung Street, Tsing Yi",LPG Vehicle Repair Workshop,0.5810 ha,2.5,2.0,April 2002,2002/2003,1
+95,RBL 1159,"Peak Pavilions, 12 Mt. Kellett Road, the Peak",Residential R3,0.7353 ha,0.539,30.0,January 2004,2004/2005,0
+96,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,8,20.0,January 2004,2004/2005,1
+97,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,3,20.0,February 2004,2004/2005,0
+98,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3529 ha,3,30.0,February 2004,2004/2005,0
+99,NKIL 6330,"Sa Po Road, Kowloon City",Residential R1,0.3521 ha,9,40.0,February 2004,2004/2005,1
+100,STTL 510,"Tung Lo Wan Hill Road, Sha Tin",Residential R2,1.0626 ha,2.28,30.0,April 2004,2004/2005,1
+101,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,8,50.0,April 2004,2004/2005,1
+102,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,4,20.0,April 2004,2004/2005,1
+103,STTL 487,"Site 15, Area 77, Ma On Shan",Residential R2,1.4006 ha,5,50.0,May 2004,2004/2005,1
+104,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4680 ha,0.9,20.0,June 2004,2004/2005,0
+105,KIL 11124,"Ex-Tin Kwong Road Police Married Quarters, Ho Man Tin",Residential R1,1.7756 ha,9,50.0,July 2004,2004/2005,1
+106,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,Portion A: 10.55; Portion B: see Note 2,50.0,September 2004,2004/2005,1
+107,NKIL 6308,"Junction of King Fuk Street, King Tai Street and Prince Edward Road East, San Po Kong",Residential R1,1.2701 ha,9,50.0,October 2004,2004/2005,1
+108,RBL 1168,Near 35 South Bay Road,Residential R3,0.1530 ha,0.9,10.0,November 2004,2004/2005,0
+109,NKIL 6310,"Junction of Wang Tai Road, Sheung Yuet Road and Wang Chiu Road, Kowloon Bay",Business,0.5012 ha,12,20.0,December 2004,2004/2005,0
+110,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3240 ha,5/9.5,20.0,January 2005,2004/2005,0
+111,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4200 ha,9.5,50.0,January 2005,2004/2005,1
+112,RBL 1159,"Peak Pavilions, 12 Mt. Kellett Road, the Peak",Residential R3,0.7353 ha,,,April 2005,2005/2006,1
+113,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,,,April 2005,2005/2006,1
+114,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,April 2005,2005/2006,1
+115,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3528 ha,,,April 2005,2005/2006,1
+116,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,,,April 2005,2005/2006,1
+117,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,April 2005,2005/2006,1
+118,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4250 ha,,,April 2005,2005/2006,1
+119,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,,,April 2005,2005/2006,1
+120,RBL 1168,Near 35 South Bay Road,Residential R3,0.1460 ha,,,April 2005,2005/2006,1
+121,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,April 2005,2005/2006,1
+122,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4160 ha,,,April 2005,2005/2006,1
+123,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R3,0.3173 ha,,,April 2005,2005/2006,0
+124,KIL 11168,"Hoi Ting Road, West Kowloon Reclamation Area",Residential R1,0.7397 ha,,,April 2005,2005/2006,0
+125,KIL 11146,"Hoi Fai Road, West Kowloon Reclamation (Site B1)",Residential R1,1.1353 ha,,,April 2005,2005/2006,0
+126,KIL 11167,"J/O Hoi Wang Road and Hoi Ting Road, West Kowloon Reclamation Area",Residential R1,0.6179 ha,,,April 2005,2005/2006,0
+127,Lot 673 DD Peng Chau,"Site 2, Tung Wan, Peng Chau",Residential R3,0.1093 ha,,,August 2005,2005/2006,0
+128,NKIL 6350,"Fung Shing Street, Ngau Chi Wan",Residential R2,1.4400 ha,,,September 2005,2005/2006,0
+129,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0527 ha,,,October 2005,2005/2006,0
+130,IL 8914,Ex-Hollywood Road Police Quarters,Residential R1,0.5818 ha,,,October 2005,2005/2006,0
+131,TMTL 422,"Area 58, Tuen Mun (Ex-Pearl Island Quarters)",Residential R3,1.5030 ha,,,October 2005,2005/2006,0
+132,Lot 1848 DD Cheung Chau,"Sai Wan, Shui Hang, Cheung Chau",Residential R4,1.0382 ha,,,November 2005,2005/2006,0
+133,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,November 2005,2005/2006,0
+134,NKIL 6311,"J/o Sheung Yuet Road, Wang Tai Road & Wang Yuen Street",Business,0.2579 ha,,,November 2005,2005/2006,0
+135,Lot 2129 in DD 121,"Ping Shan Development Stage II, Yuen Long",Residential R3,0.6020 ha,,,December 2005,2005/2006,0
+136,NKIL 6313,J/o Cheung Yip Street & Sheung Yee Road,Business,0.2560 ha,,,December 2005,2005/2006,0
+137,TLTL 68,"Tsing Lung Tau, Tsuen Wan (Dragon Villa)",Residential R3,0.2500 ha,,,December 2005,2005/2006,0
+138,Lot 674 DD Peng Chau,"Site 1, Tung Wan, Peng Chau",Residential R3,0.1760 ha,,,December 2005,2005/2006,0
+139,IL 9007,103 Mt. Nicholson Road,Residential R3,2.3290 ha,,,January 2006,2005/2006,0
+140,STTL 548,"Site 9A & B, Area 77, Ma On Shan",Residential R2,1.6100 ha,,,January 2006,2005/2006,0
+141,TPTL 188,"Pak Shek Kok Reclamation Phase I, Site C",Residential R2,1.9613 ha,,,February 2006,2005/2006,0
+142,TPTL 187,"Pak Shek Kok Reclamation Phase I, Site A",Residential R2,0.9976 ha,,,February 2006,2005/2006,0
+143,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,February 2006,2005/2006,0
+144,KIL 11073,"J/O Hoi Wan Road, Yan Cheung Road and Yau Cheung Road, West Kowloon Reclamation",Residential R1,0.8060 ha,,,March 2006,2005/2006,0
+145,IL 8949,"21, 23 and 25 Borrett Road, Mid-levels West",Residential R2,1.0488 ha,,,March 2006,2005/2006,0
+146,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Commercial,1.7460 ha,,,March 2006,2005/2006,0
+147,RBL 1159,"Peak Pavilions, 12 Mt. Kellett Road, The Peak",Residential R3,0.7353 ha,,,Now,2006/2007,1
+148,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,,,Now,2006/2007,1
+149,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2006/2007,1
+150,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3528 ha,,,Now,2006/2007,1
+151,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,Now,2006/2007,1
+152,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4250 ha,,,Now,2006/2007,1
+153,RBL 1168,Near 35 South Bay Road,Residential R3,0.1460 ha,,,Now,2006/2007,1
+154,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,Now,2006/2007,1
+155,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4160 ha,,,Now,2006/2007,1
+156,KIL 11146,"Site E/A3, Hoi Fai Road, West Kowloon Reclamation (Site B1)",Residential R1,1.1353 ha,,,Now,2006/2007,1
+157,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,Now,2006/2007,1
+158,TMTL 422,"Area 58, Tuen Mun (Ex-Pearl Island Quarters)",Residential R3,1.5030 ha,,,Now,2006/2007,1
+159,Lot 1848 DD Cheung Chau,"Sai Wan, Shui Hang, Cheung Chau",Residential R4,1.0382 ha,,,Now,2006/2007,1
+160,NKIL 6311,"J/o Sheung Yuet Road, Wang Tai Road & Wang Yuen Street",Business,0.2579 ha,,,Now,2006/2007,1
+161,Lot 2129 DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2006/2007,1
+162,NKIL 6313,J/o Cheung Yip Street & Sheung Yee Road,Business,0.3795 ha,,,Now,2006/2007,1
+163,TLTL 68,"Tsing Lung Tau, Tsuen Wan (Dragon Villa)",Residential R3,0.2076 ha,,,Now,2006/2007,1
+164,STTL 548,"Area 77, Ma On Shan",Residential R2,1.6440 ha,,,Now,2006/2007,1
+165,TPTL 188,"Pak Shek Kok Reclamation Phase I, Site C",Residential R2,1.9902 ha,,,Now,2006/2007,1
+166,TPTL 187,"Pak Shek Kok Reclamation Phase I, Site A",Residential R2,1.0028 ha,,,Now,2006/2007,1
+167,KIL 11073,"J/O Hoi Wang Road, Yan Cheung Road and Yau Cheung Road, West Kowloon Reclamation",Residential R1,0.8060 ha,,,Now,2006/2007,1
+168,IL 8949,"21, 23 And 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,Now,2006/2007,1
+169,IL 9007,103 Mt. Nicholson Road,Residential R3,2.3290 ha,,,July 2006,2006/2007,1
+170,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,,,August 2006,2006/2007,1
+171,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4110 ha,,,September 2006,2006/2007,1
+172,Lot 1950 DD 221,"Sai Kung Town, Area 4",Commercial,1.7940 ha,,,February 2007,2006/2007,1
+173,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.4667 ha,,,Planning Brief Under Preparation,2006/2007,1
+174,IL 8914,Ex-Hollywood Road Police Quarters,Residential R1,0.5818 ha,,,Planning Brief Under Preparation,2006/2007,1
+175,Lot 246 DD 331,"Cheung Sha, Lantau Island",Residential R4,0.2240 ha,,,June 2006,2006/2007,0
+176,TMTL 449,"Area 58, Tuen Mun (Tsing Fat Street)",Residential R3,1.7040 ha,,,July 2006,2006/2007,0
+177,NKIL6374,1 Broadcast Drive,Residential R2,0.6080 ha,,,September 2006,2006/2007,0
+178,STTL 433,"Junction of On Kwan Street and On Yiu Street, Area 11, Sha Tin",Business (incl Public Storey Carpark),0.8530 ha,,,September 2006,2006/2007,0
+179,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Homantin, Hung Hom, Kowloon",Residential R1,0.1880 ha,,,October 2006,2006/2007,0
+180,NKIL 6309,"Ex-Wong Tai Sin Police Quarters, 3 Chun Yan Street",Residential R1,0.9470 ha,,,October 2006,2006/2007,0
+181,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential / Commercial,0.0306 ha,,,October 2006,2006/2007,0
+182,TPTL 195,"Former Departmental Quarters, Plover Cove Road, Tai Po",Residential / Commercial,0.2685 ha,,,October 2006,2006/2007,0
+183,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial,0.4878 ha,,,October 2006,2006/2007,0
+184,Lot 676 DD Peng Chau,Peng Chau,Residential R3,0.4640 ha,,,December 2006,2006/2007,0
+185,STTL 463,"Junction of On Kwan Street and On Yiu Street, Area 11, Sha Tin",Business,0.7190 ha,,,December 2006,2006/2007,0
+186,Lot 245 DD 331,"Cheung Sha, Lantau Island",Residential R4,1.6600 ha,,,January 2007,2006/2007,0
+187,Lot 1176 DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1699 ha,,,February 2007,2006/2007,0
+188,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business,0.7127 ha,,,February 2007,2006/2007,0
+189,KIL 11175,"J/O Fat Kwong Street and Chung Hau Streeet, Homantin (Ex-Valley Road Estate Ph 2)",Residential R1,1.6291 ha,,,March 2007,2006/2007,0
+190,TCTL 22,"Tung Chung Area 56, Lantau Island",Residential R2,3.3337 ha,,,March 2007,2006/2007,0
+191,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Commercial,0.6623 ha,,,March 2007,2006/2007,0
+192,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2007/2008,1
+193,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.3528 ha,,,Now,2007/2008,1
+194,RBL 1165,"Near 110, Repulse Bay Road",Residential R3,0.4250 ha,,,Now,2007/2008,1
+195,RBL 1168,Near 35 South Bay Road,Residential R3,0.1460 ha,,,Now,2007/2008,1
+196,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,Now,2007/2008,1
+197,KIL 11146,"Hoi Fai Road, West Kowloon Reclamation Site B1",Residential R1,1.1353 ha,,,Now,2007/2008,1
+198,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,Now,2007/2008,1
+199,TMTL 422,"Area 58, Tuen Mun (Ex-Pearl Island Quarters)",Residential R3,1.5030 ha,,,Now,2007/2008,1
+200,Lot 1848 DD Cheung Chau,"Sai Wan, Shui Hang, Cheung Chau",Residential R4,1.0382 ha,,,Now,2007/2008,1
+201,Lot 2129 DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2007/2008,1
+202,KIL 11073,"J/O Hoi Wang Road, Yan Cheung Road and Yau Cheung Road, West Kowloon Reclamation",Residential R1,0.8060 ha,,,Now,2007/2008,1
+203,IL 8949,"21, 23 And 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,Now,2007/2008,1
+204,IL 9007,103 Mt. Nicholson Road,Residential R3,2.3312 ha,,,Now,2007/2008,1
+205,AIL 451,"Welfare Road, Aberdeen",Residential R1,0.6403 ha,,,Now,2007/2008,1
+206,TMTL 449,"Tsing Fat Street, Tuen Mun",Residential R3,1.7042 ha,,,Now,2007/2008,1
+207,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Homantin, Kowloon",Residential R1,0.1902 ha,,,Now,2007/2008,1
+208,NKIL 6309,"Ex-Wong Tai Sin Police Quarters, 3 Chun Yan Street",Residential R1,0.9502 ha,,,Now,2007/2008,1
+209,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential/Commercial,0.0306 ha,,,Now,2007/2008,1
+210,Lot 676 DD Peng Chau,Peng Chau,Residential R3,0.4565 ha,,,Now,2007/2008,1
+211,Lot 245 DD 331,"Cheung Sha, Lantau Island",Residential R4,1.6587 ha,,,Now,2007/2008,1
+212,KIL 11175,"J/O Fat Kwong Street and Chung Hau Street, Homantin (Ex-Valley Road Estate Ph 2)",Residential R1,1.6151 ha,,,Now,2007/2008,1
+213,TCTL 22,"Tung Chung Area 56, Lantau Island",Residential R2,3.2900 ha,,,Now,2007/2008,1
+214,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,Now,2007/2008,1
+215,NKIL 6311,"J/o Sheung Yuet Road, Wang Tai Road & Wang Yuen Street",Business,0.2579 ha,,,Now,2007/2008,1
+216,NKIL 6313,"Cheung Yip Street, Kowloon",Business,0.3795 ha,,,Now,2007/2008,1
+217,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,Now,2007/2008,1
+218,Lot 1950 DD 221,"Sai Kung Town, Area 4",Commercial,1.7940 ha,,,Now,2007/2008,1
+219,STTL 433,"On Yiu Street/On Kwan Street/On Lai Street, Shek Mun, Sha Tin",Business,0.8533 ha,,,Now,2007/2008,1
+220,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial,0.4878 ha,,,Now,2007/2008,1
+221,STTL 463,"On Yiu Street/On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,Now,2007/2008,1
+222,Lot 1176 in D.D. 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2007/2008,1
+223,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business,0.7083 ha,,,Now,2007/2008,1
+224,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Commercial,0.6600 ha,,,Now,2007/2008,1
+225,IL 8914,Ex-Hollywood Road Police Quarters,Residential R1,0.5818 ha,,,December 2007,2007/2008,1
+226,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.2080 ha,,,January 2008,2007/2008,1
+227,TWTL 393,"Yeung Uk Road, Tsuen Wan",Commercial,1.4160 ha,,,February 2008,2007/2008,1
+228,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Residential / Commercial,1.1700 ha,,,February 2008,2007/2008,1
+229,FSSTL 202,"Area 21, Fan Leng Lau Road",Residential R1,0.2560 ha,,,April 2007,2007/2008,0
+230,Lot 734 DD 4,"Mui Wo, Lantau",Residential R4,0.2419 ha,,,May 2007,2007/2008,0
+231,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,May 2007,2007/2008,0
+232,TPTL 186,"Pak Shek Kok Development Area, Phase 1, Site B",Residential R2,2.2140 ha,,,October 2007,2007/2008,0
+233,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street, Tung Tau",Business,0.4748 ha,,,January 2008,2007/2008,0
+234,KIL 11120,Hung Hom Bay Reclamation Site D1,Residential R1,0.7470 ha,,,February 2008,2007/2008,0
+235,FSSTL 177,"Area 19, Sha Tau Kok Road",Residential R1,0.8900 ha,,,February 2008,2007/2008,0
+236,NKIL 6312,"Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,March 2008,2007/2008,0
+237,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street",Residential R2,0.7284 ha,,,March 2008,2007/2008,0
+238,Lot 1588 DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay",Residential R4,0.7650 ha,,,March 2008,2007/2008,0
+239,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel / Residential / Commercial,1.1700 ha,,,March 2009,2008/2009,1
+240,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Hotel,0.2579 ha,,,August 2008,2008/2009,1
+241,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Hotel,0.6600 ha,,,August 2008,2008/2009,1
+242,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Hotel,0.7083 ha,,,August 2008,2008/2009,1
+243,TSWTL 26,"Area 108A, Tin Shui Wai",Hotel,0.6500 ha,,,August 2008,2008/2009,1
+244,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,September 2008,2008/2009,1
+245,TWTL 393,"Yeung Uk Road, Tsuen Wan",Hotel,1.4160 ha,,,December 2008,2008/2009,1
+246,IL 9007,"103 Mt. Nicholson Road, The Peak, Hong Kong",Residential R3,2.3312 ha,,,Now,2008/2009,1
+247,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2008/2009,1
+248,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,Now,2008/2009,1
+249,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,Now,2008/2009,1
+250,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential / Commercial,0.0306 ha,,,Now,2008/2009,1
+251,FSSTL 202,"Area 21, Junction of Fan Leng Lau Road, Wo Muk Road and Luen Hing Street, Fanling",Residential R1,0.2560 ha,,,Now,2008/2009,1
+252,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Residential R1,0.8900 ha,,,Now,2008/2009,1
+253,TPTL 166,"Po Heung Street, Tai Po",Residential / Commercial (Including Public Car Park),0.3325 ha,,,Now,2008/2009,1
+254,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,Now,2008/2009,1
+255,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2008/2009,1
+256,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.1804 ha,,,June 2008,2008/2009,1
+257,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,June 2008,2008/2009,1
+258,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street, Kowloon",Residential R2,0.7326 ha,,,June 2008,2008/2009,1
+259,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,August 2008,2008/2009,1
+260,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,August 2008,2008/2009,1
+261,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.2808 ha,,,August 2008,2008/2009,1
+262,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,August 2008,2008/2009,1
+263,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,September 2008,2008/2009,1
+264,KIL 11175,"Junction of Fat Kwong Street and Chung Hau Street, Homantin, Kowloon (Ex-Valley Road Estate Ph 2)",Residential R2,1.6151 ha,,,October 2008,2008/2009,1
+265,KIL 11120,"Hung Hom Bay Reclamation Site D1, Junction of Oi King Street and Hung Luen Road, Kowloon",Residential R2,0.7480 ha,,,March 2009,2008/2009,1
+266,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,0.7976 ha,,,March 2009,2008/2009,1
+267,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,Now,2008/2009,1
+268,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,Now,2008/2009,1
+269,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,Now,2008/2009,1
+270,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2008/2009,1
+271,STTL 433,"Junction of On Yiu Street, On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.8533 ha,,,Now,2008/2009,1
+272,STTL 463,"Junction of On Yiu Street and On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,Now,2008/2009,1
+273,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,August 2008,2008/2009,1
+274,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street West, Tung Tau, Yuen Long",Business,0.4748 ha,,,February 2009,2008/2009,1
+275,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.6000 ha,,,March 2009,2008/2009,0
+276,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0700 ha,,,March 2009,2008/2009,0
+277,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.6000 ha,,,March 2009,2008/2009,0
+278,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,April 2008,2008/2009,0
+279,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,April 2008,2008/2009,0
+280,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1771 ha,,,April 2008,2008/2009,0
+281,Lot 1200 in DD 217,"Pak Sha Wan, Sai Kung",Residential R3,0.0190 ha,,,April 2008,2008/2009,0
+282,Lot 726 in DD 4,"Mui Wo, Lantau",Residential R3,0.2260 ha,,,September 2008,2008/2009,0
+283,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1700 ha,,,September 2008,2008/2009,0
+284,NKIL 6493,"Inverness Road, Kowloon Tong",Residential R3,0.7040 ha,,,March 2009,2008/2009,0
+285,TCTL 37,"Tung Chung Area 55b, Lantau",Residential R2,2.6200 ha,,,March 2009,2008/2009,0
+286,Lot 750 in DD 85,"Queen's Hill, Fanling",Residential R3,16.4200 ha,,,March 2009,2008/2009,0
+287,TKOTL 76,Tseung Kwan O Area 66B,Residential R1,1.6100 ha,,,March 2009,2008/2009,0
+288,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.3910 ha,,,March 2009,2008/2009,0
+289,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.6060 ha,,,March 2009,2008/2009,0
+290,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5200 ha,,,March 2009,2008/2009,0
+291,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8480 ha,,,March 2009,2008/2009,0
+292,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.7780 ha,,,March 2009,2008/2009,0
+293,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9100 ha,,,March 2009,2008/2009,0
+294,TPTL 200,"Pak Shek Kok Development Area, Phase 2, Site D1, Tai Po",Residential R3,2.0925 ha,,,March 2009,2008/2009,0
+295,TPTL 201,"Pak Shek Kok Development Area, Phase 2, Site D2, Tai Po",Residential R3,2.0925 ha,,,March 2009,2008/2009,0
+296,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1100 ha,,,March 2009,2008/2009,0
+297,KIL 11202,"Ex-Ho Man Tin Police Quarters, 81 Chung Hau Street, Homantin, Kowloon",Residential R2,0.4300 ha,,,March 2009,2008/2009,0
+298,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2800 ha,,,March 2009,2008/2009,0
+299,IL 8998,"Chung Kong Road, adjacent to Shun Tak Centre, Hong Kong",Commercial,0.6028 ha,,,March 2009,2008/2009,0
+300,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3900 ha,,,March 2009,2008/2009,0
+301,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel / Residential / Commercial,1.1400 ha,,,December 2009,2009/2010,1
+302,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Hotel,0.2579 ha,,,Now,2009/2010,1
+303,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Hotel,0.6600 ha,,,Now,2009/2010,1
+304,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Hotel,0.7083 ha,,,Now,2009/2010,1
+305,TSWTL 26,"Area 108A, Tin Shui Wai",Hotel,0.6500 ha,,,Now,2009/2010,1
+306,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,Now,2009/2010,1
+307,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5360 ha,,,December 2009,2009/2010,1
+308,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0700 ha,,,Now,2009/2010,1
+309,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.6000 ha,,,December 2009,2009/2010,1
+310,IL 9007,"103 Mt. Nicholson Road, The Peak, Hong Kong",Residential R3,2.3312 ha,,,Now,2009/2010,1
+311,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2009/2010,1
+312,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,Now,2009/2010,1
+313,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,Now,2009/2010,1
+314,FSSTL 225,"89-95 San Fung Avenue, Shek Wu Hui, Sheung Shui",Residential / Commercial,0.0306 ha,,,Now,2009/2010,1
+315,FSSTL 202,"Area 21, Junction of Fan Leng Lau Road, Wo Muk Road and Luen Hing Street, Fanling",Residential R1,0.2560 ha,,,Now,2009/2010,1
+316,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Residential R1,0.8900 ha,,,Now,2009/2010,1
+317,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,March 2010,2009/2010,1
+318,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2009/2010,1
+319,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.1804 ha,,,Now,2009/2010,1
+320,IL 8872,"Hospital Road, Hong Kong",Residential R1,0.0573 ha,,,Now,2009/2010,1
+321,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street, Kowloon",Residential R2,0.7326 ha,,,Now,2009/2010,1
+322,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,Now,2009/2010,1
+323,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,Now,2009/2010,1
+324,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.2808 ha,,,Now,2009/2010,1
+325,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,Now,2009/2010,1
+326,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,June 2009,2009/2010,1
+327,KIL 11175,"Junction of Fat Kwong Street and Chung Hau Street, Homantin, Kowloon (Ex-Valley Road Estate Ph 2)",Residential R2,1.6151 ha,,,June 2009,2009/2010,1
+328,KIL 11120,"Hung Hom Bay Reclamation Site D1, Junction of Oi King Street and Hung Luen Road, Kowloon",Residential R2,0.7551 ha,,,June 2009,2009/2010,1
+329,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,0.7976 ha,,,March 2010,2009/2010,1
+330,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,Now,2009/2010,1
+331,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,Now,2009/2010,1
+332,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,Now,2009/2010,1
+333,Lot 726 in DD 4,"Mui Wo, Lantau",Residential R3,0.2260 ha,,,Now,2009/2010,1
+334,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1733 ha,,,Now,2009/2010,1
+335,NKIL 6493,"Inverness Road, Kowloon Tong",Residential R3,0.7040 ha,,,October 2009,2009/2010,1
+336,TCTL 37,"Tung Chung Area 55b, Lantau",Residential R2,2.6200 ha,,,Now,2009/2010,1
+337,Lot 750 in DD 85,"Queen's Hill, Fanling",Residential R3,16.4200 ha,,,March 2010,2009/2010,1
+338,TKOTL 76,Tseung Kwan O Area 66B,Residential R1,1.2300 ha,,,October 2009,2009/2010,1
+339,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.4680 ha,,,Now,2009/2010,1
+340,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.5950 ha,,,Now,2009/2010,1
+341,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5480 ha,,,Now,2009/2010,1
+342,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8590 ha,,,Now,2009/2010,1
+343,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.8080 ha,,,Now,2009/2010,1
+344,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9700 ha,,,Now,2009/2010,1
+345,TPTL 200,"Pak Shek Kok Development Area, Phase 2, Site D1, Tai Po",Residential R3,2.0925 ha,,,Now,2009/2010,1
+346,TPTL 201,"Pak Shek Kok Development Area, Phase 2, Site D2, Tai Po",Residential R3,2.0925 ha,,,Now,2009/2010,1
+347,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1100 ha,,,June 2009,2009/2010,1
+348,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2810 ha,,,Now,2009/2010,1
+349,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,Now,2009/2010,1
+350,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,Now,2009/2010,1
+351,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,Now,2009/2010,1
+352,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2009/2010,1
+353,STTL 433,"Junction of On Yiu Street, On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.8533 ha,,,Now,2009/2010,1
+354,STTL 463,"Junction of On Yiu Street and On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,Now,2009/2010,1
+355,IL 8941,"Central Market, Jubilee Street, Central",Commercial,0.4153 ha,,,Now,2009/2010,1
+356,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street West, Tung Tau, Yuen Long",Business,0.4748 ha,,,Now,2009/2010,1
+357,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3900 ha,,,December 2009,2009/2010,1
+358,STTL 525,"Shatin Area 56A, Kau To (Site A)",Residential R2,2.1900 ha,,,October 2009,2009/2010,0
+359,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5220 ha,,,March 2010,2009/2010,0
+360,STTL 412,"Junction of On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.5900 ha,,,December 2009,2009/2010,0
+361,TCTL 11,"Area 3A, Tung Chung, Lantau",Commercial,1.0000 ha,,,December 2009,2009/2010,0
+362,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel and Residential / Commercial,0.7887 ha,,,Now,2010/2011,1
+363,IL 9007,"103 Mt. Nicholson Road, The Peak, Hong Kong",Residential R3,2.3312 ha,,,Now,2010/2011,1
+364,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,Now,2010/2011,1
+365,KIL 11175,"Junction of Fat Kwong Street and Chung Hau Street, Homantin, Kowloon (Ex-Valley Road Estate Ph 2)",Residential R2,1.6151 ha,,,Now,2010/2011,1
+366,NKIL 6493,"Inverness Road, Kowloon Tong",Residential R3,0.7046 ha,,,Now,2010/2011,1
+367,IL 8963,"Former Lingnan College Site, Stubbs Road",Residential R3,1.4900 ha,,,March 2011,2010/2011,0
+368,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Hotel,0.2579 ha,,,Now,2010/2011,1
+369,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Hotel,0.6600 ha,,,Now,2010/2011,1
+370,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Hotel,0.7083 ha,,,Now,2010/2011,1
+371,TSWTL 26,"Area 108A, Tin Shui Wai",Hotel,0.6500 ha,,,Now,2010/2011,1
+372,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,Now,2010/2011,1
+373,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5369 ha,,,Now,2010/2011,1
+374,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0717 ha,,,Now,2010/2011,1
+375,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.5623 ha,,,Now,2010/2011,1
+376,NKIL 6306,"1 Ede Road, Kowloon Tong",Residential R3,0.2399 ha,,,Now,2010/2011,1
+377,NKIL 6423,"3 and 5 Ede Road, Kowloon Tong",Residential R3,0.2808 ha,,,Now,2010/2011,1
+378,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,Now,2010/2011,1
+379,Lot 734 in DD 4,"Mui Wo, Lantau",Residential R3,0.2419 ha,,,Now,2010/2011,1
+380,FSSTL 202,"Area 21, Junction of Fan Leng Lau Road, Wo Muk Road and Luen Hing Street, Fanling",Residential R1,0.2560 ha,,,Now,2010/2011,1
+381,FSSTL 177,"Area 19, Sha Tau Kok Road, Fanling",Residential R1,0.8900 ha,,,Now,2010/2011,1
+382,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,Now,2010/2011,1
+383,CWIL 175,"Lin Shing Road, Chai Wan",Residential R1,0.1804 ha,,,Now,2010/2011,1
+384,KIL11125,"Ex-CAS Training Centre, 204 Argyle Street, Kowloon",Residential R2,0.7326 ha,,,Now,2010/2011,1
+385,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,Now,2010/2011,1
+386,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,Now,2010/2011,1
+387,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,Now,2010/2011,1
+388,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,Now,2010/2011,1
+389,KIL 11120,"Hung Hom Bay Reclamation Site D1, Junction of Oi King Street and Hung Luen Road, Kowloon",Residential R2,0.7551 ha,,,Now,2010/2011,1
+390,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,Now,2010/2011,1
+391,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,Now,2010/2011,1
+392,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,Now,2010/2011,1
+393,Lot 726 in DD 4,"Mui Wo, Lantau",Residential and Commercial,0.2260 ha,,,Now,2010/2011,1
+394,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1733 ha,,,Now,2010/2011,1
+395,TCTL 37,"Tung Chung Area 55b, Lantau",Residential R2,2.6200 ha,,,Now,2010/2011,1
+396,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.4680 ha,,,Now,2010/2011,1
+397,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.5950 ha,,,Now,2010/2011,1
+398,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5480 ha,,,Now,2010/2011,1
+399,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8590 ha,,,Now,2010/2011,1
+400,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.8080 ha,,,Now,2010/2011,1
+401,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9700 ha,,,Now,2010/2011,1
+402,STTL 525,"Shatin Area 56A, Kau To (Site A)",Residential R2,2.3085 ha,,,Now,2010/2011,1
+403,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1192 ha,,,Now,2010/2011,1
+404,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2810 ha,,,Now,2010/2011,1
+405,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,March 2011,2010/2011,1
+406,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,Now,2010/2011,1
+407,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,Now,2010/2011,1
+408,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,Now,2010/2011,1
+409,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,Now,2010/2011,1
+410,YLTL 458,"Junction of Fu Yip Street and Wang Yip Street West, Tung Tau, Yuen Long",Business,0.4748 ha,,,Now,2010/2011,1
+411,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3703 ha,,,Now,2010/2011,1
+412,TCTL 11,"Area 3A, Tung Chung, Lantau",Commercial,1.0026 ha,,,April 2010,2010/2011,1
+413,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5090 ha,,,August 2010,2010/2011,1
+414,RBL 1190,"8-12 Deep Water Bay Drive, Shouson Hill",Residential R3,1.0249 ha,,,December 2010,2010/2011,0
+415,Lot 724 in DD 332,"Cheung Sha Site 406, Lantau",Residential R4,0.7390 ha,,,November 2010,2010/2011,0
+416,Lot 726 in DD 332,"Cheung Sha Site 407, Lantau",Residential R4,0.7540 ha,,,November 2010,2010/2011,0
+417,Lot 1282 in DD 253,"Junction of Pak Shek Wo San Tsuen Road and Clear Water Bay Road, Sai Kung",Residential R3,0.2384 ha,,,March 2011,2010/2011,0
+418,Lot 678 in DD Peng Chau,Peng Chau,Residential and Commercial,0.5200 ha,,,August 2010,2010/2011,0
+419,HHIL 556,"5-23 Lee Kung Street, Hung Hom",Residential R1,0.1300 ha,,,September 2010,2010/2011,0
+420,Lot 2086 in DD 105,"Ngau Tam Mei, off San Tam Road, near Maple Gardens, Yuen Long",Residential R4,2.3580 ha,,,March 2011,2010/2011,0
+421,TMTL 490,"Castle Peak Road, Tai Lam Chung, Tuen Mun",Residential R3,0.2050 ha,,,January 2011,2010/2011,0
+422,TMTL 434,"Junction of Ka Wo Li Hill Road and Castle Peak Road, Area 55, So Kwun Wat, Tuen Mun",Residential R3,0.3600 ha,,,January 2011,2010/2011,0
+423,HHIL 555,"Junction of Bulkeley Street and Gillies Avenue South, Hung Hom",Residential R1,0.0575 ha,,,March 2011,2010/2011,0
+424,IL 8949,"21, 23 and 25 Borrett Road, Mid-Levels West",Residential R2,1.0488 ha,,,April 2011,2011/2012,1
+425,KIL 11184,"Ex-Ko Shan Road Customs & Excise Service Married Quarters, 7 Ko Shan Road, Hung Hom, Kowloon",Residential R1,0.1902 ha,,,April 2011,2011/2012,1
+426,IL 8963,"Former Lingnan College Site, Stubbs Road",Residential R3,1.4900 ha,,,April 2011,2011/2012,1
+427,IL 8920,"Ex-Government Supplies Depot, Oil Street, North Point",Hotel and Residential / Commercial,0.7887 ha,,,June 2011,2011/2012,1
+428,Lot 1950 in DD 221,"Sai Kung Town, Area 4",Hotel,1.7940 ha,,,April 2011,2011/2012,1
+429,IL 8970,"373 Queen's Road East, Hong Kong",Hotel,0.0717 ha,,,April 2011,2011/2012,1
+430,NKIL 6269,"Junction of Wai Yip Street, Shun Yip Street and Hoi Bun Road, Kwun Tong",Business,0.7083 ha,,,April 2011,2011/2012,1
+431,NKIL 6314,"Junction of Kai Cheung Road and Wang Kwong Road, Kowloon Bay",Commercial,0.6600 ha,,,April 2011,2011/2012,1
+432,TSWTL 26,"Area 108A, Tin Shui Wai",Commercial,0.6500 ha,,,April 2011,2011/2012,1
+433,STTL 463,"Junction of On Yiu Street and On Kwan Street, Shek Mun, Sha Tin",Business,0.7997 ha,,,April 2011,2011/2012,0
+434,STTL 412,"Junction of On Kwan Street and On Lai Street, Shek Mun, Sha Tin",Business,0.6540 ha,,,July 2011,2011/2012,0
+435,Lot 2086 in DD 105,"Ngau Tam Mei, off San Tam Road, near Maple Gardens, Yuen Long",Residential R4,2.3480 ha,,,April 2011,2011/2012,1
+436,Lot 2129 in DD 121,"Ping Kwai Road, Ping Shan, Yuen Long",Residential R3,0.6076 ha,,,April 2011,2011/2012,1
+437,RBL 1165,"Near 110 Repulse Bay Road, Hong Kong",Residential R3,0.4250 ha,,,April 2011,2011/2012,1
+438,RBL 1168,"Near 35 South Bay Road, Hong Kong",Residential R3,0.1338 ha,,,April 2011,2011/2012,1
+439,RBL 1190,"8-12 Deep Water Bay Drive, Shouson Hill",Residential R3,1.0249 ha,,,April 2011,2011/2012,1
+440,StIL 91,"Hoi Fung Path, Stanley",Residential R3,0.0615 ha,,,April 2011,2011/2012,1
+441,Lot 1588 in DD 243,"Pik Sha Road, Silverstrand, Clear Water Bay, Sai Kung",Residential R4,0.7615 ha,,,April 2011,2011/2012,1
+442,Lot 1613 in DD 222,"Kap Pin Long, Sai Kung",Residential R4,0.1733 ha,,,April 2011,2011/2012,1
+443,Lot 1282 in DD 253,"Junction of Pak Shek Wo San Tsuen Road and Clear Water Bay Road, Sai Kung",Residential R3,0.2400 ha,,,April 2011,2011/2012,1
+444,NKIL 6498,"62 Begonia Road, Yau Yat Chuen, Kowloon Tong",Residential R3,0.2810 ha,,,April 2011,2011/2012,1
+445,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,April 2011,2011/2012,1
+446,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,April 2011,2011/2012,1
+447,Lot 676 in DD Peng Chau,Peng Chau,Residential R3,0.4564 ha,,,April 2011,2011/2012,1
+448,Lot 678 in DD Peng Chau,Peng Chau,Residential and Commercial,0.5200 ha,,,April 2011,2011/2012,1
+449,Lot 726 in DD 4,"Mui Wo, Lantau",Residential and Commercial,0.2260 ha,,,April 2011,2011/2012,1
+450,Lot 724 in DD 332,"Cheung Sha Site 406, Lantau",Residential R4,0.7410 ha,,,April 2011,2011/2012,1
+451,Lot 726 in DD 332,"Cheung Sha Site 407, Lantau",Residential R4,0.7550 ha,,,April 2011,2011/2012,1
+452,STTL 525,"Shatin Area 56A, Kau To (Site A)",Residential R2,2.3056 ha,,,April 2011,2011/2012,1
+453,STTL 562,"Shatin Area 56A, Kau To (Site B5)",Residential R3,0.4680 ha,,,April 2011,2011/2012,1
+454,STTL 563,"Shatin Area 56A, Kau To (Site B6)",Residential R3,0.5950 ha,,,April 2011,2011/2012,1
+455,STTL 564,"Shatin Area 56A, Kau To (Site B7)",Residential R3,0.5480 ha,,,April 2011,2011/2012,1
+456,STTL 565,"Shatin Area 56A, Kau To (Site B1)",Residential R3,0.8590 ha,,,April 2011,2011/2012,1
+457,STTL 566,"Shatin Area 56A, Kau To (Site B2)",Residential R3,0.8080 ha,,,April 2011,2011/2012,1
+458,STTL 567,"Shatin Area 56A, Kau To (Site B3&4)",Residential R3,1.9700 ha,,,April 2011,2011/2012,1
+459,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,April 2011,2011/2012,1
+460,Lot 4309 in DD 124,"Tan Kwai Tsuen, Hung Shui Kiu, Yuen Long",Residential R3,1.1192 ha,,,June 2011,2011/2012,1
+461,TMTL 434,"Junction of Ka Wo Li Hill Road and Castle Peak Road, Area 55, So Kwun Wat, Tuen Mun",Residential R3,0.3550 ha,,,June 2011,2011/2012,1
+462,TMTL 490,"Castle Peak Road, Tai Lam Chung, Tuen Mun",Residential R3,0.2050 ha,,,June 2011,2011/2012,1
+463,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5369 ha,,,April 2011,2011/2012,1
+464,KIL 11205,"Junction of Hung Luen Road and Wa Shun Street, Hung Hom Bay Reclamation, Kowloon",Hotel,1.5623 ha,,,April 2011,2011/2012,1
+465,NKIL 6195,"Cha Kwo Ling Road, Kwun Tong",Commercial (Including Public Car Park),0.4878 ha,,,April 2011,2011/2012,1
+466,NKIL 6311,"Junction of Sheung Yuet Road, Wang Tai Road and Wang Yuen Street, Kowloon Bay",Business,0.2579 ha,,,April 2011,2011/2012,1
+467,NKIL 6312,"Junction of Wang Chiu Road and Lam Lee Street, Kowloon Bay",Business,0.4297 ha,,,April 2011,2011/2012,1
+468,NKIL 6313,"Cheung Yip Street, Kowloon Bay",Business,0.3795 ha,,,April 2011,2011/2012,1
+469,Lot 1176 in DD 215,"Tui Min Hoi, Sai Kung",Commercial,0.1659 ha,,,April 2011,2011/2012,1
+470,KIL 11111,"Junction of Hung Luen Road and Kin Wan Street, Hung Hom Bay Reclamation, Kowloon",Commercial,1.3703 ha,,,April 2011,2011/2012,1
+471,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5090 ha,,,April 2011,2011/2012,1
+472,TCTL 11,"Area 3A, Tung Chung, Lantau",Commercial,1.0026 ha,,,April 2011,2011/2012,1
+473,KIL 11227,"Junction of Sheung Lok Street and Sheung Shing Street, former Homantin Estate Redevelopment Ph 2 and 7 sites",Residential R2,2.0810 ha,,,July 2011,2011/2012,0
+474,KIL 11228,"Junction of Fat Kwong Street and Sheung Foo Street, former Homantin Estate Redevelopment Ph 3 site",Residential R2,0.7191 ha,,,July 2011,2011/2012,0
+475,TMTL 436,"Kwun Fat Street, Siu Lam, Tuen Mun",Residential R4,0.8980 ha,,,August 2011,2011/2012,0
+476,TMTL 423,"Ex-Perowne Barracks North site, Area 48, Castle Peak Road, Tuen Mun",Residential R3,6.6970 ha,,,October 2011,2011/2012,0
+477,TKOTL 113,Tseung Kwan O Area 66A,Residential R2,1.3400 ha,,,October 2011,2011/2012,0
+478,TKOTL 114,Tseung Kwan O Area 66C1,Residential R2,0.4340 ha,,,October 2011,2011/2012,0
+479,TKOTL 115,Tseung Kwan O Area 66D1,Residential R2,0.5030 ha,,,October 2011,2011/2012,0
+480,TKOTL 119,Tseung Kwan O Area 66B2,Residential R2,0.8260 ha,,,October 2011,2011/2012,0
+481,ApIIL 135,Junction of Ap Lei Chau Drive and Ap Lei Chau Praya Road,Residential R1,0.3050 ha,,,November 2011,2011/2012,0
+482,IL 9027,"Eastern part of ex-North Point Estate, North Point",Residential and Commercial,2.9300 ha,,,March 2012,2011/2012,0
+483,TKOTL 95,Tseung Kwan O Area 68A,Residential R3,3.7300 ha,,,March 2012,2011/2012,0
+484,TKOTL 117,Tseung Kwan O Area 66C2,Residential R3,1.3000 ha,,,March 2012,2011/2012,0
+485,TKOTL 118,Tseung Kwan O Area 66D2,Residential R3,1.5000 ha,,,March 2012,2011/2012,0
+486,STTL 574,"Lok Wo Sha, Ma On Shan, Sha Tin",Residential R3,1.7400 ha,,,March 2012,2011/2012,0
+487,TMTL 495,"So Kwun Wat, Tuen Mun, near Grandview Terrace",Residential R4,0.1950 ha,,,March 2012,2011/2012,0
+488,RBL 1190,"8-12 Deep Water Bay Drive, Shouson Hill",Residential R3,1.0249 ha,,,Now,2012/2013,1
+489,Lot 673 in DD Peng Chau,"Tung Wan, Peng Chau (Site A)",Residential R3,0.1142 ha,,,Now,2012/2013,1
+490,Lot 674 in DD Peng Chau,"Tung Wan, Peng Chau (Site B)",Residential R3,0.1780 ha,,,Now,2012/2013,1
+491,Lot 678 in DD Peng Chau,Peng Chau,Residential and Commercial,0.5200 ha,,,Now,2012/2013,1
+492,STTL 562,"Area 56A, Kau To, Sha Tin (Site B5)",Residential R3,0.4680 ha,,,Now,2012/2013,1
+493,STTL 563,"Area 56A, Kau To, Sha Tin (Site B6)",Residential R3,0.5950 ha,,,Now,2012/2013,1
+494,STTL 565,"Area 56A, Kau To, Sha Tin (Site B1)",Residential R3,0.8590 ha,,,Now,2012/2013,1
+495,STTL 566,"Area 56A, Kau To, Sha Tin (Site B2)",Residential R3,0.8080 ha,,,Now,2012/2013,1
+496,STTL 567,"Area 56A, Kau To, Sha Tin (Site B3&4)",Residential R3,1.9700 ha,,,Now,2012/2013,1
+497,TMTL 430,"Area 52, Fu Tei, Tuen Mun",Residential R4,0.3173 ha,,,Now,2012/2013,1
+498,TMTL 434,"Junction of Ka Wo Li Hill Road and Castle Peak Road, Area 55, So Kwun Wat, Tuen Mun",Residential R3,0.3457 ha,,,Now,2012/2013,1
+499,TMTL 490,"Castle Peak Road, Tai Lam Chung, Tuen Mun",Residential R3,0.2050 ha,,,Now,2012/2013,1
+500,KIL 11227,"Junction of Sheung Lok Street and Sheung Shing Street, Ho Man Tin",Residential R2,2.4077 ha,,,Now,2012/2013,1
+501,KIL 11228,"Junction of Fat Kwong Street and Sheung Foo Street, Ho Man Tin",Residential R2,0.7714 ha,,,Now,2012/2013,1
+502,TKOTL 117,Tseung Kwan O Area 66C2,Residential R3,1.2915 ha,,,March 2012,2012/2013,1
+503,TKOTL 118,Tseung Kwan O Area 66D2,Residential R3,1.4954 ha,,,March 2012,2012/2013,1
+504,STTL 574,"Lok Wo Sha, Ma On Shan, Sha Tin",Residential R2,1.4400 ha,,,March 2012,2012/2013,1
+505,TMTL 495,"Kwun Fung Street, Siu Lam, Tuen Mun",Residential R4,0.2010 ha,,,March 2012,2012/2013,1
+506,TKOTL 114,Tseung Kwan O Area 66C1,Residential R2,0.4352 ha,,,April 2012,2012/2013,1
+507,TKOTL 115,Tseung Kwan O Area 66D1,Residential R2,0.5026 ha,,,April 2012,2012/2013,1
+508,IL 9027,"Eastern part of ex-North Point Estate, North Point",Residential and Commercial,2.3400 ha,,,May 2012,2012/2013,1
+509,TKOTL 95,Tseung Kwan O Area 68A2,Residential R3,2.1306 ha,,,May 2012,2012/2013,1
+510,TKOTL 125,Tseung Kwan O Area 68A1,Residential R3,1.5969 ha,,,May 2012,2012/2013,1
+511,IL 9020,"Western part of Ex-North Point Estate, North Point",Hotel,0.5369 ha,,,Now,2012/2013,1
+512,IL 9036,"Murray Building, Cotton Tree Drive, Hong Kong",Hotel,0.6330 ha,,,March 2013,2012/2013,1
+513,STTL 482,"Site 11, Area 77, Ma On Shan, Sha Tin",Commercial,0.5090 ha,,,Now,2012/2013,1
+514,TCTL 11,"Area 3A, Tung Chung, Lantau Island",Commercial,1.0026 ha,,,Now,2012/2013,1
+515,IL 8947,"123 Gloucester Road and 219-227 Lockhart Road, former Wan Chai Police Station cum Wan Chai Police Married Quarters",Hotel / Commercial / Community & Cultural,0.3950 ha,,,March 2013,2012/2013,1
+516,Lot 750 in DD 332,"South Lantau Road, Cheung Sha, Lantau Island",Residential R4,0.1440 ha,,,March 2012,2012/2013,0
+517,STTL 579,"Area 56A, Kau To, Sha Tin",Residential R3,3.2910 ha,,,April 2012,2012/2013,0
+518,STTL 578,"Area 56A, Kau To, Sha Tin",Residential R3,1.7389 ha,,,May 2012,2012/2013,0
+519,KIL 11229,"7 Kwun Chung Street, Jordan, Kowloon",Residential R1,0.0263 ha,,,June 2012,2012/2013,0
+520,TMTL 435,"Area 55, Castle Peak Road, Tuen Mun",Residential R3,1.1600 ha,,,August 2012,2012/2013,0
+521,Lot 1949 in DD 221,"Sha Kok Mei, Sai Kung",Residential R3,1.5600 ha,,,October 2012,2012/2013,0
+522,TMTL 427,"Junction of So Kwun Wat Road and Kwun Chui Road, Tuen Mun",Residential R3,2.8160 ha,,,December 2012,2012/2013,0
+523,TMTL 498,"Junction of Wu On Street and Wu Hong Street, Tuen Mun",Residential R2,0.2260 ha,,,December 2012,2012/2013,0
+524,TMTL 497,"So Kwun Wat Road, Tuen Mun (opposite to A.D. & F.D. of Pok Oi Hospital Mrs. Cheng Yam On Millennium School)",Residential R3,0.3370 ha,,,January 2013,2012/2013,0
+525,NKIL 6516,"Kai Tak Area 1H Site 1, Kowloon",Residential R2,0.7772 ha,,,January 2013,2012/2013,0
+526,NKIL 6517,"Kai Tak Area 1H Site 2, Kowloon",Residential R2,0.8586 ha,,,January 2013,2012/2013,0
+527,TPTL 208,"Fo Chun Road, Pak Shek Kok, Tai Po",Residential R2,1.5000 ha,,,January 2013,2012/2013,0
+528,TPTL 211,"Fo Chun Road, Pak Shek Kok, Tai Po",Residential R2,1.5000 ha,,,January 2013,2012/2013,0
+529,IL 9048,"Schooner Street, Wan Chai",Residential R2,0.0270 ha,,,February 2013,2012/2013,0
+530,IL 9049,"Sik On Street, Wan Chai",Residential R2,0.0249 ha,,,February 2013,2012/2013,0
+531,RBL 1197,"Mount Austin Road, The Peak, Hong Kong",Residential R3,0.1306 ha,,,February 2013,2012/2013,0
+532,STTL 581,"Whitehead, Ma On Shan, Sha Tin",Residential R3,3.8024 ha,,,February 2013,2012/2013,0
+533,TKOTL 93,Tseung Kwan O Area 68B1,Residential R3,2.6850 ha,,,February 2013,2012/2013,0
+534,TKOTL 126,Tseung Kwan O Area 68B2,Residential R3,2.6843 ha,,,February 2013,2012/2013,0
+535,TKOTL 112,Tseung Kwan O Area 65C1,Residential R3,1.4000 ha,,,February 2013,2012/2013,0
+536,TKOTL 124,Tseung Kwan O Area 65C2,Residential R3,1.9900 ha,,,February 2013,2012/2013,0
+537,YLTL 528,"Tak Yip Street, Tung Tau, Yuen Long",Residential R2,0.4400 ha,,,February 2013,2012/2013,0
+538,Lot 1003 in DD 40,"Junction of Shun Lung Street and Shun Cheong Street, Sha Tau Kok",Residential R2,0.3344 ha,,,March 2013,2012/2013,0
+539,Lot 1004 in DD 40,"Che Ping Street, Sha Tau Kok",Residential R2,0.0458 ha,,,March 2013,2012/2013,0
+540,KIL 11235,"Junction of Argyle Street and Canton Road, Kowloon (ex-Mong Kok Market Site)",Commercial / Office / Hotel,0.1240 ha,,,March 2013,2012/2013,0
