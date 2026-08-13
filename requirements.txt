@@ -14,3 +14,5 @@ pyreadr
 rdata
 nbconvert
 geopandas
+scikit-learn
+stargazer
