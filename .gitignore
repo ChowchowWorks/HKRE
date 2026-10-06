@@ -218,3 +218,9 @@ __marimo__/
 .streamlit/secrets.toml
 HKRE-venv
 RAG/api.env
+
+# Workspace Image
+HKRE.code-workspace
+
+# Intermitten Work
+size_drop.html
